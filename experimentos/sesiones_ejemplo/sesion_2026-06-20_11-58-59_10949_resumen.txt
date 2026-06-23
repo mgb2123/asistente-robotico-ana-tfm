@@ -1,0 +1,48 @@
+========================================================
+RESUMEN DE SESION — asistente de voz "Ana"
+========================================================
+Inicio:    2026-06-20 11:58:59
+Fin:       2026-06-20 12:39:06
+Duracion:  40m 07s (2407.7s)
+Turnos:    9
+Chars TTS: 350
+
+LATENCIAS (segundos)   n     media    min     max     p95
+--------------------------------------------------------
+STT -> 1er token LLM     8     0.84    0.41    2.05    2.05
+LLM 1er token (abs)      9     0.80    0.41    2.05    2.05
+LLM -> 1er audio         9     4.39    0.23   36.86   36.86
+Audio inicio -> fin      9     1.73    0.00    4.26    4.26
+Gap entre acciones       8   174.46    1.88  602.63  602.63
+
+EVENTOS
+--------------------------------------------------------
+Barge-in (interrupciones): 4
+Caidas de WiFi:            0
+Errores:                   0
+Emergencias:               3
+
+VALIDACION NAVEGACION (Tabla 2.17: RF-02 / RNF-02 / Metrica 1)
+Exito = err_pos < 0.30 m  y  err_yaw < 15 deg  y  t < 120 s
+--------------------------------------------------------
+waypoint       intentos  exitos   tasa(%) t_med(s) t_max(s)
+  (sin navegaciones registradas)
+
+SISTEMA (CPU/RAM/TEMP)   n     media    min     max
+--------------------------------------------------------
+CPU global (%)         481     29.8    25.4    99.9
+RAM usada (%)          481     49.8    46.7    58.0
+Temp SoC (C)           481     59.0    56.5    75.0
+Load 1 min             481      1.8     0.7     4.3
+
+COMANDOS MAS USADOS
+--------------------------------------------------------
+      4  wake
+      2  pregunta:ahora
+      2  pregunta:si
+      1  pregunta:ve a la habitacion
+      1  pregunta:puedes ir a la habitacion
+      1  pregunta:puede ser
+      1  pregunta:emergencias
+      1  pregunta:por favor
+      1  llamar_emergencias

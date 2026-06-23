@@ -1,0 +1,212 @@
+{"t": 0.001, "ts": "11:34:35", "ev": "sesion_inicio", "fecha": "2026-06-20 11:34:35", "pid": 8323, "llm_model": "google/gemini-2.5-flash-lite"}
+{"t": 5.005, "ts": "11:34:40", "ev": "sistema", "cpu_pct": 64.7, "mem_pct": 46.7, "temp_c": 63.3, "load1": 1.68}
+{"t": 10.006, "ts": "11:34:45", "ev": "sistema", "cpu_pct": 44.6, "mem_pct": 48.2, "temp_c": 63.3, "load1": 1.63}
+{"t": 15.008, "ts": "11:34:50", "ev": "sistema", "cpu_pct": 29.1, "mem_pct": 47.9, "temp_c": 60.9, "load1": 1.5}
+{"t": 20.01, "ts": "11:34:55", "ev": "sistema", "cpu_pct": 27.5, "mem_pct": 47.8, "temp_c": 59.4, "load1": 1.37}
+{"t": 25.011, "ts": "11:35:00", "ev": "sistema", "cpu_pct": 28.1, "mem_pct": 47.7, "temp_c": 59.9, "load1": 1.43}
+{"t": 30.014, "ts": "11:35:05", "ev": "sistema", "cpu_pct": 27.3, "mem_pct": 47.4, "temp_c": 59.4, "load1": 1.31}
+{"t": 35.016, "ts": "11:35:10", "ev": "sistema", "cpu_pct": 27.5, "mem_pct": 47.2, "temp_c": 59.4, "load1": 1.21}
+{"t": 40.018, "ts": "11:35:15", "ev": "sistema", "cpu_pct": 28.5, "mem_pct": 47.3, "temp_c": 58.9, "load1": 1.11}
+{"t": 45.019, "ts": "11:35:20", "ev": "sistema", "cpu_pct": 27.0, "mem_pct": 47.9, "temp_c": 57.9, "load1": 1.02}
+{"t": 50.028, "ts": "11:35:25", "ev": "sistema", "cpu_pct": 27.9, "mem_pct": 47.1, "temp_c": 58.4, "load1": 1.02}
+{"t": 55.033, "ts": "11:35:30", "ev": "sistema", "cpu_pct": 26.6, "mem_pct": 47.0, "temp_c": 57.9, "load1": 1.26}
+{"t": 60.034, "ts": "11:35:35", "ev": "sistema", "cpu_pct": 27.1, "mem_pct": 47.0, "temp_c": 57.9, "load1": 1.48}
+{"t": 65.036, "ts": "11:35:40", "ev": "sistema", "cpu_pct": 27.2, "mem_pct": 47.0, "temp_c": 57.9, "load1": 1.52}
+{"t": 70.038, "ts": "11:35:45", "ev": "sistema", "cpu_pct": 27.0, "mem_pct": 47.0, "temp_c": 58.9, "load1": 1.48}
+{"t": 75.039, "ts": "11:35:50", "ev": "sistema", "cpu_pct": 27.2, "mem_pct": 47.0, "temp_c": 58.4, "load1": 1.52}
+{"t": 80.041, "ts": "11:35:55", "ev": "sistema", "cpu_pct": 26.7, "mem_pct": 47.0, "temp_c": 58.4, "load1": 1.56}
+{"t": 85.043, "ts": "11:36:00", "ev": "sistema", "cpu_pct": 26.2, "mem_pct": 47.0, "temp_c": 57.9, "load1": 1.51}
+{"t": 90.045, "ts": "11:36:05", "ev": "sistema", "cpu_pct": 27.3, "mem_pct": 47.0, "temp_c": 57.0, "load1": 1.55}
+{"t": 95.046, "ts": "11:36:10", "ev": "sistema", "cpu_pct": 26.7, "mem_pct": 47.0, "temp_c": 57.5, "load1": 1.75}
+{"t": 100.049, "ts": "11:36:15", "ev": "sistema", "cpu_pct": 27.1, "mem_pct": 47.0, "temp_c": 57.9, "load1": 1.61}
+{"t": 105.051, "ts": "11:36:20", "ev": "sistema", "cpu_pct": 27.2, "mem_pct": 47.0, "temp_c": 57.5, "load1": 1.8}
+{"t": 110.058, "ts": "11:36:25", "ev": "sistema", "cpu_pct": 27.3, "mem_pct": 47.0, "temp_c": 57.5, "load1": 1.74}
+{"t": 112.213, "ts": "11:36:27", "ev": "conversacion", "estado": "on"}
+{"t": 112.216, "ts": "11:36:27", "ev": "comando", "texto": "gana", "comando": "wake", "gap_prev": null}
+{"t": 115.06, "ts": "11:36:30", "ev": "sistema", "cpu_pct": 28.3, "mem_pct": 47.1, "temp_c": 57.9, "load1": 1.92}
+{"t": 118.401, "ts": "11:36:34", "ev": "comando", "texto": "ana qué tal", "comando": "pregunta:ana que tal", "gap_prev": null}
+{"t": 120.062, "ts": "11:36:35", "ev": "sistema", "cpu_pct": 37.0, "mem_pct": 48.1, "temp_c": 59.9, "load1": 1.92}
+{"t": 120.62, "ts": "11:36:36", "ev": "llm", "q_chars": 11, "r_chars": 58, "llm_first_token": 2.148, "acciones": [], "pregunta": "ana que tal", "respuesta": "Hola muy bien y tú", "emocion": "calma", "intensidad": 0.5}
+{"t": 124.706, "ts": "11:36:40", "ev": "turno", "n_chars": 18, "stt_to_llm1": 2.148, "llm1_to_aplay1": 0.258, "aplay1_to_end": 0.485, "gap_prev": null, "cola_speech_max": 1, "cola_tts_max": 1, "cola_audio_max": 0}
+{"t": 125.064, "ts": "11:36:40", "ev": "sistema", "cpu_pct": 25.3, "mem_pct": 48.3, "temp_c": 58.9, "load1": 1.85}
+{"t": 127.694, "ts": "11:36:43", "ev": "comando", "texto": "yo perfecto gracias", "comando": "pregunta:yo perfecto gracias", "gap_prev": 2.99}
+{"t": 128.178, "ts": "11:36:43", "ev": "llm", "q_chars": 19, "r_chars": 68, "llm_first_token": 0.401, "acciones": [], "pregunta": "yo perfecto gracias", "respuesta": "Me alegro mucho de oír eso", "emocion": "alegria", "intensidad": 0.7}
+{"t": 130.066, "ts": "11:36:45", "ev": "sistema", "cpu_pct": 30.3, "mem_pct": 48.2, "temp_c": 58.9, "load1": 1.86}
+{"t": 132.228, "ts": "11:36:47", "ev": "turno", "n_chars": 26, "stt_to_llm1": 0.401, "llm1_to_aplay1": 0.246, "aplay1_to_end": 1.363, "gap_prev": 2.98, "cola_speech_max": 1, "cola_tts_max": 1, "cola_audio_max": 0}
+{"t": 135.068, "ts": "11:36:50", "ev": "sistema", "cpu_pct": 30.8, "mem_pct": 48.3, "temp_c": 58.4, "load1": 1.71}
+{"t": 135.308, "ts": "11:36:50", "ev": "comando", "texto": "puedes ir a la habitación", "comando": "pregunta:puedes ir a la habitacion", "gap_prev": 3.08}
+{"t": 135.877, "ts": "11:36:51", "ev": "llm", "q_chars": 25, "r_chars": 103, "llm_first_token": 0.462, "acciones": ["goto:habitacion"], "pregunta": "puedes ir a la habitacion", "respuesta": "Claro voy para allá ahora mismo", "emocion": "calma", "intensidad": 0.6}
+{"t": 140.069, "ts": "11:36:55", "ev": "sistema", "cpu_pct": 30.4, "mem_pct": 48.3, "temp_c": 57.5, "load1": 1.58}
+{"t": 140.589, "ts": "11:36:56", "ev": "turno", "n_chars": 31, "stt_to_llm1": 0.462, "llm1_to_aplay1": 0.249, "aplay1_to_end": 0.739, "gap_prev": 3.07, "cola_speech_max": 1, "cola_tts_max": 1, "cola_audio_max": 0}
+{"t": 145.071, "ts": "11:37:00", "ev": "sistema", "cpu_pct": 29.6, "mem_pct": 48.2, "temp_c": 57.5, "load1": 1.61}
+{"t": 150.073, "ts": "11:37:05", "ev": "sistema", "cpu_pct": 27.7, "mem_pct": 48.2, "temp_c": 58.4, "load1": 1.56}
+{"t": 155.075, "ts": "11:37:10", "ev": "sistema", "cpu_pct": 27.8, "mem_pct": 48.2, "temp_c": 57.9, "load1": 1.52}
+{"t": 160.077, "ts": "11:37:15", "ev": "sistema", "cpu_pct": 27.5, "mem_pct": 48.2, "temp_c": 58.4, "load1": 1.39}
+{"t": 165.078, "ts": "11:37:20", "ev": "sistema", "cpu_pct": 27.5, "mem_pct": 48.0, "temp_c": 57.9, "load1": 1.28}
+{"t": 167.023, "ts": "11:37:22", "ev": "conversacion", "estado": "expirada"}
+{"t": 170.08, "ts": "11:37:25", "ev": "sistema", "cpu_pct": 29.0, "mem_pct": 48.3, "temp_c": 57.9, "load1": 1.18}
+{"t": 175.082, "ts": "11:37:30", "ev": "sistema", "cpu_pct": 26.5, "mem_pct": 49.1, "temp_c": 57.9, "load1": 1.16}
+{"t": 180.084, "ts": "11:37:35", "ev": "sistema", "cpu_pct": 27.4, "mem_pct": 49.1, "temp_c": 57.5, "load1": 1.23}
+{"t": 185.086, "ts": "11:37:40", "ev": "sistema", "cpu_pct": 27.3, "mem_pct": 49.1, "temp_c": 57.0, "load1": 1.85}
+{"t": 190.089, "ts": "11:37:45", "ev": "sistema", "cpu_pct": 27.6, "mem_pct": 49.1, "temp_c": 58.4, "load1": 1.79}
+{"t": 195.091, "ts": "11:37:50", "ev": "sistema", "cpu_pct": 27.6, "mem_pct": 49.1, "temp_c": 58.9, "load1": 1.64}
+{"t": 200.092, "ts": "11:37:55", "ev": "sistema", "cpu_pct": 28.6, "mem_pct": 49.1, "temp_c": 57.9, "load1": 1.51}
+{"t": 205.094, "ts": "11:38:00", "ev": "sistema", "cpu_pct": 32.6, "mem_pct": 49.1, "temp_c": 57.5, "load1": 1.47}
+{"t": 210.095, "ts": "11:38:05", "ev": "sistema", "cpu_pct": 32.4, "mem_pct": 49.1, "temp_c": 58.9, "load1": 1.43}
+{"t": 215.097, "ts": "11:38:10", "ev": "sistema", "cpu_pct": 30.6, "mem_pct": 49.1, "temp_c": 58.9, "load1": 1.32}
+{"t": 220.099, "ts": "11:38:15", "ev": "sistema", "cpu_pct": 36.9, "mem_pct": 49.0, "temp_c": 59.9, "load1": 1.29}
+{"t": 225.1, "ts": "11:38:20", "ev": "sistema", "cpu_pct": 38.8, "mem_pct": 49.0, "temp_c": 59.4, "load1": 1.19}
+{"t": 230.102, "ts": "11:38:25", "ev": "sistema", "cpu_pct": 29.6, "mem_pct": 49.0, "temp_c": 59.9, "load1": 1.17}
+{"t": 235.103, "ts": "11:38:30", "ev": "sistema", "cpu_pct": 28.3, "mem_pct": 49.0, "temp_c": 58.4, "load1": 1.24}
+{"t": 240.105, "ts": "11:38:35", "ev": "sistema", "cpu_pct": 29.3, "mem_pct": 49.0, "temp_c": 57.9, "load1": 1.22}
+{"t": 245.108, "ts": "11:38:40", "ev": "sistema", "cpu_pct": 30.3, "mem_pct": 49.1, "temp_c": 57.9, "load1": 1.44}
+{"t": 250.109, "ts": "11:38:45", "ev": "sistema", "cpu_pct": 28.8, "mem_pct": 49.2, "temp_c": 58.4, "load1": 1.41}
+{"t": 255.112, "ts": "11:38:50", "ev": "sistema", "cpu_pct": 34.5, "mem_pct": 49.6, "temp_c": 59.4, "load1": 1.53}
+{"t": 260.113, "ts": "11:38:55", "ev": "sistema", "cpu_pct": 28.7, "mem_pct": 50.4, "temp_c": 58.9, "load1": 1.73}
+{"t": 265.116, "ts": "11:39:00", "ev": "sistema", "cpu_pct": 30.5, "mem_pct": 49.5, "temp_c": 57.9, "load1": 1.67}
+{"t": 270.118, "ts": "11:39:05", "ev": "sistema", "cpu_pct": 33.0, "mem_pct": 49.5, "temp_c": 57.9, "load1": 1.7}
+{"t": 274.266, "ts": "11:39:09", "ev": "conversacion", "estado": "on"}
+{"t": 274.27, "ts": "11:39:09", "ev": "comando", "texto": "ana", "comando": "wake", "gap_prev": 133.68}
+{"t": 275.128, "ts": "11:39:10", "ev": "sistema", "cpu_pct": 35.9, "mem_pct": 49.6, "temp_c": 58.9, "load1": 1.64}
+{"t": 279.108, "ts": "11:39:14", "ev": "comando", "texto": "las un chiste", "comando": "pregunta:las un chiste", "gap_prev": 138.52}
+{"t": 279.835, "ts": "11:39:15", "ev": "llm", "q_chars": 13, "r_chars": 138, "llm_first_token": 0.581, "acciones": [], "pregunta": "las un chiste", "respuesta": "A ver qué te parece este Qué le dice un semáforo a otro No me mires que me estoy cambiando", "emocion": "alegria", "intensidad": 0.7}
+{"t": 280.13, "ts": "11:39:15", "ev": "sistema", "cpu_pct": 33.5, "mem_pct": 49.7, "temp_c": 58.4, "load1": 1.91}
+{"t": 285.131, "ts": "11:39:20", "ev": "sistema", "cpu_pct": 27.4, "mem_pct": 49.7, "temp_c": 59.9, "load1": 2.0}
+{"t": 286.991, "ts": "11:39:22", "ev": "turno", "n_chars": 89, "stt_to_llm1": 0.581, "llm1_to_aplay1": 0.184, "aplay1_to_end": 3.735, "gap_prev": 138.51, "cola_speech_max": 1, "cola_tts_max": 1, "cola_audio_max": 0}
+{"t": 290.134, "ts": "11:39:25", "ev": "sistema", "cpu_pct": 32.3, "mem_pct": 49.7, "temp_c": 59.9, "load1": 1.92}
+{"t": 290.483, "ts": "11:39:26", "ev": "comando", "texto": "ah", "comando": "pregunta:ah", "gap_prev": 3.49}
+{"t": 290.948, "ts": "11:39:26", "ev": "llm", "q_chars": 2, "r_chars": 72, "llm_first_token": 0.375, "acciones": [], "pregunta": "ah", "respuesta": "Pues eso que se está cambiando", "emocion": "calma", "intensidad": 0.5}
+{"t": 295.138, "ts": "11:39:30", "ev": "sistema", "cpu_pct": 41.2, "mem_pct": 49.7, "temp_c": 59.9, "load1": 1.77}
+{"t": 295.171, "ts": "11:39:30", "ev": "turno", "n_chars": 30, "stt_to_llm1": 0.375, "llm1_to_aplay1": 0.228, "aplay1_to_end": 0.236, "gap_prev": 3.49, "cola_speech_max": 1, "cola_tts_max": 1, "cola_audio_max": 0}
+{"t": 300.143, "ts": "11:39:35", "ev": "sistema", "cpu_pct": 31.2, "mem_pct": 49.7, "temp_c": 60.9, "load1": 1.87}
+{"t": 300.171, "ts": "11:39:35", "ev": "comando", "texto": "me encuentro", "comando": "pregunta:me encuentro", "gap_prev": 5.0}
+{"t": 300.681, "ts": "11:39:36", "ev": "llm", "q_chars": 12, "r_chars": 60, "llm_first_token": 0.401, "acciones": [], "pregunta": "me encuentro", "respuesta": "Cómo te encuentras", "emocion": "calma", "intensidad": 0.5}
+{"t": 304.105, "ts": "11:39:39", "ev": "turno", "n_chars": 18, "stt_to_llm1": 0.401, "llm1_to_aplay1": 0.214, "aplay1_to_end": 0.0, "gap_prev": 4.99, "cola_speech_max": 1, "cola_tts_max": 1, "cola_audio_max": 0}
+{"t": 305.146, "ts": "11:39:40", "ev": "sistema", "cpu_pct": 35.4, "mem_pct": 49.7, "temp_c": 59.9, "load1": 1.96}
+{"t": 306.456, "ts": "11:39:42", "ev": "comando", "texto": "me encuentro muy triste", "comando": "pregunta:me encuentro muy triste", "gap_prev": 2.35}
+{"t": 306.996, "ts": "11:39:42", "ev": "llm", "q_chars": 23, "r_chars": 117, "llm_first_token": 0.394, "acciones": [], "pregunta": "me encuentro muy triste", "respuesta": "Ay lamento mucho oír eso Hay algo que pueda hacer para animarte un poco", "emocion": "empatia", "intensidad": 0.8}
+{"t": 310.148, "ts": "11:39:45", "ev": "sistema", "cpu_pct": 32.8, "mem_pct": 49.7, "temp_c": 58.4, "load1": 2.28}
+{"t": 314.883, "ts": "11:39:50", "ev": "turno", "n_chars": 70, "stt_to_llm1": 0.394, "llm1_to_aplay1": 0.242, "aplay1_to_end": 3.903, "gap_prev": 2.35, "cola_speech_max": 1, "cola_tts_max": 1, "cola_audio_max": 0}
+{"t": 315.15, "ts": "11:39:50", "ev": "sistema", "cpu_pct": 31.9, "mem_pct": 49.7, "temp_c": 60.4, "load1": 2.26}
+{"t": 318.729, "ts": "11:39:54", "ev": "comando", "texto": "podrías contar un chiste", "comando": "pregunta:podrias contar un chiste", "gap_prev": 3.85}
+{"t": 319.277, "ts": "11:39:54", "ev": "llm", "q_chars": 24, "r_chars": 114, "llm_first_token": 0.43, "acciones": [], "pregunta": "podrias contar un chiste", "respuesta": "Claro que sí A ver qué le dice un jaguar a otro jaguar \"Jaguar you\"", "emocion": "alegria", "intensidad": 0.7}
+{"t": 320.152, "ts": "11:39:55", "ev": "sistema", "cpu_pct": 32.8, "mem_pct": 49.7, "temp_c": 58.9, "load1": 2.08}
+{"t": 325.131, "ts": "11:40:00", "ev": "turno", "n_chars": 67, "stt_to_llm1": 0.43, "llm1_to_aplay1": 0.287, "aplay1_to_end": 1.86, "gap_prev": 3.84, "cola_speech_max": 1, "cola_tts_max": 1, "cola_audio_max": 0}
+{"t": 325.154, "ts": "11:40:00", "ev": "sistema", "cpu_pct": 30.8, "mem_pct": 49.8, "temp_c": 58.9, "load1": 2.07}
+{"t": 329.592, "ts": "11:40:05", "ev": "comando", "texto": "un poco flojo no", "comando": "pregunta:un poco flojo no", "gap_prev": 4.46}
+{"t": 330.156, "ts": "11:40:05", "ev": "sistema", "cpu_pct": 32.6, "mem_pct": 49.8, "temp_c": 59.4, "load1": 2.06}
+{"t": 330.278, "ts": "11:40:05", "ev": "llm", "q_chars": 16, "r_chars": 147, "llm_first_token": 0.468, "acciones": [], "pregunta": "un poco flojo no", "respuesta": "Sí lo sé es un poco malo pero espero que te haya sacado una sonrisa al menos Quieres que intente otro", "emocion": "calma", "intensidad": 0.6}
+{"t": 335.16, "ts": "11:40:10", "ev": "sistema", "cpu_pct": 31.4, "mem_pct": 50.3, "temp_c": 58.9, "load1": 2.06}
+{"t": 340.162, "ts": "11:40:15", "ev": "sistema", "cpu_pct": 34.7, "mem_pct": 50.1, "temp_c": 59.4, "load1": 2.05}
+{"t": 341.731, "ts": "11:40:17", "ev": "turno", "n_chars": 99, "stt_to_llm1": 0.468, "llm1_to_aplay1": 0.181, "aplay1_to_end": 8.279, "gap_prev": 4.45, "cola_speech_max": 1, "cola_tts_max": 1, "cola_audio_max": 0}
+{"t": 343.802, "ts": "11:40:19", "ev": "comando", "texto": "otro", "comando": "pregunta:otro", "gap_prev": 2.07}
+{"t": 344.506, "ts": "11:40:20", "ev": "llm", "q_chars": 4, "r_chars": 138, "llm_first_token": 0.49, "acciones": [], "pregunta": "otro", "respuesta": "Vale a ver qué te parece este Por qué los pájaros no usan Facebook Porque ya tienen Twitter", "emocion": "alegria", "intensidad": 0.7}
+{"t": 345.165, "ts": "11:40:20", "ev": "sistema", "cpu_pct": 39.3, "mem_pct": 49.7, "temp_c": 59.4, "load1": 2.21}
+{"t": 350.167, "ts": "11:40:25", "ev": "sistema", "cpu_pct": 31.2, "mem_pct": 49.9, "temp_c": 58.9, "load1": 2.19}
+{"t": 352.692, "ts": "11:40:28", "ev": "turno", "n_chars": 89, "stt_to_llm1": 0.49, "llm1_to_aplay1": 0.215, "aplay1_to_end": 5.741, "gap_prev": 2.06, "cola_speech_max": 1, "cola_tts_max": 1, "cola_audio_max": 0}
+{"t": 355.169, "ts": "11:40:30", "ev": "sistema", "cpu_pct": 38.8, "mem_pct": 49.9, "temp_c": 59.9, "load1": 2.5}
+{"t": 357.811, "ts": "11:40:33", "ev": "comando", "texto": "ese por ejemplo es muy muy bueno", "comando": "pregunta:ese por ejemplo es muy muy bueno", "gap_prev": 5.12}
+{"t": 358.37, "ts": "11:40:33", "ev": "llm", "q_chars": 32, "r_chars": 138, "llm_first_token": 0.395, "acciones": [], "pregunta": "ese por ejemplo es muy muy bueno", "respuesta": "Me alegro de que te guste A veces los chistes sencillos son los que más gracia hacen verdad", "emocion": "alegria", "intensidad": 0.7}
+{"t": 360.17, "ts": "11:40:35", "ev": "sistema", "cpu_pct": 32.4, "mem_pct": 49.8, "temp_c": 58.9, "load1": 2.38}
+{"t": 365.172, "ts": "11:40:40", "ev": "sistema", "cpu_pct": 28.2, "mem_pct": 49.8, "temp_c": 58.9, "load1": 2.19}
+{"t": 365.613, "ts": "11:40:41", "ev": "turno", "n_chars": 90, "stt_to_llm1": 0.395, "llm1_to_aplay1": 0.229, "aplay1_to_end": 3.362, "gap_prev": 5.11, "cola_speech_max": 1, "cola_tts_max": 1, "cola_audio_max": 0}
+{"t": 368.724, "ts": "11:40:44", "ev": "comando", "texto": "puesto cuál es tu libro favorito", "comando": "pregunta:puesto cual es tu libro favorito", "gap_prev": 3.11}
+{"t": 369.413, "ts": "11:40:45", "ev": "llm", "q_chars": 32, "r_chars": 225, "llm_first_token": 0.441, "acciones": [], "pregunta": "puesto cual es tu libro favorito", "respuesta": "Pues mira como soy una IA no tengo la capacidad de leer libros ni de tener favoritos como una persona Pero si quieres que te traiga un libro solo tienes que decírmelo y te lo busco", "emocion": "calma", "intensidad": 0.5}
+{"t": 370.173, "ts": "11:40:45", "ev": "sistema", "cpu_pct": 32.4, "mem_pct": 49.8, "temp_c": 58.9, "load1": 2.01}
+{"t": 375.178, "ts": "11:40:50", "ev": "sistema", "cpu_pct": 27.0, "mem_pct": 49.8, "temp_c": 58.9, "load1": 1.85}
+{"t": 380.179, "ts": "11:40:55", "ev": "sistema", "cpu_pct": 29.5, "mem_pct": 49.8, "temp_c": 58.9, "load1": 2.18}
+{"t": 385.181, "ts": "11:41:00", "ev": "sistema", "cpu_pct": 29.2, "mem_pct": 49.8, "temp_c": 59.9, "load1": 2.09}
+{"t": 386.13, "ts": "11:41:01", "ev": "turno", "n_chars": 178, "stt_to_llm1": 0.441, "llm1_to_aplay1": 0.295, "aplay1_to_end": 12.754, "gap_prev": 3.1, "cola_speech_max": 1, "cola_tts_max": 1, "cola_audio_max": 0}
+{"t": 390.182, "ts": "11:41:05", "ev": "sistema", "cpu_pct": 28.2, "mem_pct": 49.9, "temp_c": 59.4, "load1": 2.16}
+{"t": 395.184, "ts": "11:41:10", "ev": "sistema", "cpu_pct": 27.8, "mem_pct": 49.9, "temp_c": 58.4, "load1": 2.07}
+{"t": 400.186, "ts": "11:41:15", "ev": "sistema", "cpu_pct": 27.4, "mem_pct": 49.9, "temp_c": 58.4, "load1": 1.9}
+{"t": 405.187, "ts": "11:41:20", "ev": "sistema", "cpu_pct": 27.4, "mem_pct": 49.8, "temp_c": 57.9, "load1": 1.91}
+{"t": 410.189, "ts": "11:41:25", "ev": "sistema", "cpu_pct": 27.5, "mem_pct": 49.9, "temp_c": 58.9, "load1": 1.76}
+{"t": 413.025, "ts": "11:41:28", "ev": "conversacion", "estado": "expirada"}
+{"t": 415.192, "ts": "11:41:30", "ev": "sistema", "cpu_pct": 27.4, "mem_pct": 49.9, "temp_c": 59.4, "load1": 1.62}
+{"t": 420.194, "ts": "11:41:35", "ev": "sistema", "cpu_pct": 27.7, "mem_pct": 49.8, "temp_c": 58.4, "load1": 1.49}
+{"t": 425.195, "ts": "11:41:40", "ev": "sistema", "cpu_pct": 36.3, "mem_pct": 50.1, "temp_c": 58.9, "load1": 1.53}
+{"t": 430.197, "ts": "11:41:45", "ev": "sistema", "cpu_pct": 32.8, "mem_pct": 49.9, "temp_c": 59.4, "load1": 1.41}
+{"t": 435.199, "ts": "11:41:50", "ev": "sistema", "cpu_pct": 30.0, "mem_pct": 50.0, "temp_c": 58.4, "load1": 1.45}
+{"t": 440.2, "ts": "11:41:55", "ev": "sistema", "cpu_pct": 27.7, "mem_pct": 49.9, "temp_c": 58.9, "load1": 1.42}
+{"t": 445.204, "ts": "11:42:00", "ev": "sistema", "cpu_pct": 31.1, "mem_pct": 49.9, "temp_c": 58.4, "load1": 1.38}
+{"t": 450.206, "ts": "11:42:05", "ev": "sistema", "cpu_pct": 27.7, "mem_pct": 49.9, "temp_c": 57.9, "load1": 1.27}
+{"t": 455.208, "ts": "11:42:10", "ev": "sistema", "cpu_pct": 26.7, "mem_pct": 49.8, "temp_c": 59.4, "load1": 1.41}
+{"t": 460.209, "ts": "11:42:15", "ev": "sistema", "cpu_pct": 27.5, "mem_pct": 49.8, "temp_c": 57.9, "load1": 1.38}
+{"t": 465.211, "ts": "11:42:20", "ev": "sistema", "cpu_pct": 27.6, "mem_pct": 49.8, "temp_c": 58.9, "load1": 1.43}
+{"t": 470.213, "ts": "11:42:25", "ev": "sistema", "cpu_pct": 26.9, "mem_pct": 49.8, "temp_c": 58.9, "load1": 1.31}
+{"t": 475.215, "ts": "11:42:30", "ev": "sistema", "cpu_pct": 27.5, "mem_pct": 49.8, "temp_c": 57.9, "load1": 1.37}
+{"t": 480.217, "ts": "11:42:35", "ev": "sistema", "cpu_pct": 29.4, "mem_pct": 49.8, "temp_c": 57.9, "load1": 1.26}
+{"t": 485.219, "ts": "11:42:40", "ev": "sistema", "cpu_pct": 26.9, "mem_pct": 49.8, "temp_c": 58.4, "load1": 1.24}
+{"t": 490.227, "ts": "11:42:45", "ev": "sistema", "cpu_pct": 28.9, "mem_pct": 49.8, "temp_c": 58.4, "load1": 1.22}
+{"t": 495.229, "ts": "11:42:50", "ev": "sistema", "cpu_pct": 27.2, "mem_pct": 49.9, "temp_c": 57.0, "load1": 1.12}
+{"t": 500.231, "ts": "11:42:55", "ev": "sistema", "cpu_pct": 28.4, "mem_pct": 49.9, "temp_c": 57.9, "load1": 1.27}
+{"t": 505.233, "ts": "11:43:00", "ev": "sistema", "cpu_pct": 27.3, "mem_pct": 49.8, "temp_c": 58.4, "load1": 1.33}
+{"t": 510.235, "ts": "11:43:05", "ev": "sistema", "cpu_pct": 33.8, "mem_pct": 50.0, "temp_c": 59.4, "load1": 1.3}
+{"t": 515.236, "ts": "11:43:10", "ev": "sistema", "cpu_pct": 28.3, "mem_pct": 49.9, "temp_c": 57.9, "load1": 1.28}
+{"t": 520.238, "ts": "11:43:15", "ev": "sistema", "cpu_pct": 28.0, "mem_pct": 49.9, "temp_c": 58.4, "load1": 1.18}
+{"t": 525.24, "ts": "11:43:20", "ev": "sistema", "cpu_pct": 30.7, "mem_pct": 49.8, "temp_c": 57.9, "load1": 1.16}
+{"t": 530.242, "ts": "11:43:25", "ev": "sistema", "cpu_pct": 32.0, "mem_pct": 49.8, "temp_c": 58.9, "load1": 1.07}
+{"t": 535.243, "ts": "11:43:30", "ev": "sistema", "cpu_pct": 32.6, "mem_pct": 50.0, "temp_c": 58.4, "load1": 1.22}
+{"t": 540.245, "ts": "11:43:35", "ev": "sistema", "cpu_pct": 29.2, "mem_pct": 50.0, "temp_c": 58.4, "load1": 1.29}
+{"t": 545.247, "ts": "11:43:40", "ev": "sistema", "cpu_pct": 28.0, "mem_pct": 49.9, "temp_c": 58.4, "load1": 1.26}
+{"t": 550.25, "ts": "11:43:45", "ev": "sistema", "cpu_pct": 27.9, "mem_pct": 49.9, "temp_c": 58.4, "load1": 1.24}
+{"t": 555.251, "ts": "11:43:50", "ev": "sistema", "cpu_pct": 27.5, "mem_pct": 49.9, "temp_c": 58.4, "load1": 1.7}
+{"t": 560.253, "ts": "11:43:55", "ev": "sistema", "cpu_pct": 28.0, "mem_pct": 49.9, "temp_c": 58.9, "load1": 1.73}
+{"t": 565.255, "ts": "11:44:00", "ev": "sistema", "cpu_pct": 26.6, "mem_pct": 49.9, "temp_c": 57.9, "load1": 1.75}
+{"t": 570.257, "ts": "11:44:05", "ev": "sistema", "cpu_pct": 29.0, "mem_pct": 49.9, "temp_c": 58.4, "load1": 1.77}
+{"t": 575.26, "ts": "11:44:10", "ev": "sistema", "cpu_pct": 28.6, "mem_pct": 49.9, "temp_c": 57.9, "load1": 1.79}
+{"t": 580.262, "ts": "11:44:15", "ev": "sistema", "cpu_pct": 28.8, "mem_pct": 49.9, "temp_c": 57.0, "load1": 1.64}
+{"t": 585.264, "ts": "11:44:20", "ev": "sistema", "cpu_pct": 27.6, "mem_pct": 49.9, "temp_c": 57.9, "load1": 1.51}
+{"t": 590.266, "ts": "11:44:25", "ev": "sistema", "cpu_pct": 26.8, "mem_pct": 49.9, "temp_c": 57.9, "load1": 1.39}
+{"t": 595.267, "ts": "11:44:30", "ev": "sistema", "cpu_pct": 28.2, "mem_pct": 49.9, "temp_c": 58.4, "load1": 1.28}
+{"t": 600.27, "ts": "11:44:35", "ev": "sistema", "cpu_pct": 27.6, "mem_pct": 49.9, "temp_c": 57.9, "load1": 1.18}
+{"t": 605.271, "ts": "11:44:40", "ev": "sistema", "cpu_pct": 26.5, "mem_pct": 49.9, "temp_c": 56.5, "load1": 1.32}
+{"t": 610.272, "ts": "11:44:45", "ev": "sistema", "cpu_pct": 27.3, "mem_pct": 49.9, "temp_c": 57.5, "load1": 1.3}
+{"t": 615.274, "ts": "11:44:50", "ev": "sistema", "cpu_pct": 26.2, "mem_pct": 49.9, "temp_c": 58.4, "load1": 1.27}
+{"t": 620.276, "ts": "11:44:55", "ev": "sistema", "cpu_pct": 31.7, "mem_pct": 50.2, "temp_c": 58.4, "load1": 1.25}
+{"t": 625.278, "ts": "11:45:00", "ev": "sistema", "cpu_pct": 30.8, "mem_pct": 50.2, "temp_c": 58.4, "load1": 1.23}
+{"t": 630.28, "ts": "11:45:05", "ev": "sistema", "cpu_pct": 30.2, "mem_pct": 50.1, "temp_c": 58.9, "load1": 1.21}
+{"t": 635.283, "ts": "11:45:10", "ev": "sistema", "cpu_pct": 31.6, "mem_pct": 50.0, "temp_c": 58.4, "load1": 1.11}
+{"t": 640.284, "ts": "11:45:15", "ev": "sistema", "cpu_pct": 34.1, "mem_pct": 50.0, "temp_c": 58.9, "load1": 1.11}
+{"t": 645.286, "ts": "11:45:20", "ev": "sistema", "cpu_pct": 33.6, "mem_pct": 49.9, "temp_c": 58.4, "load1": 1.26}
+{"t": 650.289, "ts": "11:45:25", "ev": "sistema", "cpu_pct": 31.5, "mem_pct": 49.9, "temp_c": 58.9, "load1": 1.16}
+{"t": 655.291, "ts": "11:45:30", "ev": "sistema", "cpu_pct": 30.4, "mem_pct": 49.9, "temp_c": 58.4, "load1": 1.22}
+{"t": 660.293, "ts": "11:45:35", "ev": "sistema", "cpu_pct": 32.4, "mem_pct": 49.9, "temp_c": 57.0, "load1": 1.21}
+{"t": 665.295, "ts": "11:45:40", "ev": "sistema", "cpu_pct": 31.5, "mem_pct": 50.0, "temp_c": 58.4, "load1": 1.35}
+{"t": 670.297, "ts": "11:45:45", "ev": "sistema", "cpu_pct": 31.2, "mem_pct": 49.9, "temp_c": 58.9, "load1": 1.24}
+{"t": 675.299, "ts": "11:45:50", "ev": "sistema", "cpu_pct": 30.5, "mem_pct": 50.0, "temp_c": 59.4, "load1": 1.14}
+{"t": 680.3, "ts": "11:45:55", "ev": "sistema", "cpu_pct": 33.0, "mem_pct": 50.0, "temp_c": 58.9, "load1": 1.21}
+{"t": 685.302, "ts": "11:46:00", "ev": "sistema", "cpu_pct": 29.7, "mem_pct": 49.9, "temp_c": 58.9, "load1": 1.19}
+{"t": 690.304, "ts": "11:46:05", "ev": "sistema", "cpu_pct": 29.7, "mem_pct": 49.9, "temp_c": 57.0, "load1": 1.26}
+{"t": 695.306, "ts": "11:46:10", "ev": "sistema", "cpu_pct": 31.8, "mem_pct": 49.9, "temp_c": 58.4, "load1": 1.24}
+{"t": 700.308, "ts": "11:46:15", "ev": "sistema", "cpu_pct": 34.0, "mem_pct": 49.9, "temp_c": 58.9, "load1": 1.22}
+{"t": 705.309, "ts": "11:46:20", "ev": "sistema", "cpu_pct": 39.8, "mem_pct": 50.3, "temp_c": 59.4, "load1": 1.28}
+{"t": 710.31, "ts": "11:46:25", "ev": "sistema", "cpu_pct": 59.7, "mem_pct": 50.5, "temp_c": 62.3, "load1": 1.26}
+{"t": 715.313, "ts": "11:46:30", "ev": "sistema", "cpu_pct": 65.7, "mem_pct": 51.0, "temp_c": 63.8, "load1": 5.32}
+{"t": 719.276, "ts": "11:46:34", "ev": "conversacion", "estado": "on"}
+{"t": 719.279, "ts": "11:46:34", "ev": "comando", "texto": "ana", "comando": "wake", "gap_prev": 333.15}
+{"t": 720.314, "ts": "11:46:35", "ev": "sistema", "cpu_pct": 46.1, "mem_pct": 50.8, "temp_c": 62.8, "load1": 5.14}
+{"t": 725.316, "ts": "11:46:40", "ev": "sistema", "cpu_pct": 31.4, "mem_pct": 50.1, "temp_c": 59.9, "load1": 4.72}
+{"t": 729.025, "ts": "11:46:44", "ev": "barge_in"}
+{"t": 730.318, "ts": "11:46:45", "ev": "sistema", "cpu_pct": 28.9, "mem_pct": 50.0, "temp_c": 59.9, "load1": 4.59}
+{"t": 735.326, "ts": "11:46:50", "ev": "sistema", "cpu_pct": 29.5, "mem_pct": 49.8, "temp_c": 59.4, "load1": 4.3}
+{"t": 740.33, "ts": "11:46:55", "ev": "sistema", "cpu_pct": 31.0, "mem_pct": 49.9, "temp_c": 59.4, "load1": 4.03}
+{"t": 745.024, "ts": "11:47:00", "ev": "conversacion", "estado": "expirada"}
+{"t": 745.333, "ts": "11:47:00", "ev": "sistema", "cpu_pct": 38.0, "mem_pct": 50.0, "temp_c": 58.9, "load1": 3.71}
+{"t": 750.335, "ts": "11:47:05", "ev": "sistema", "cpu_pct": 35.5, "mem_pct": 50.3, "temp_c": 60.9, "load1": 3.41}
+{"t": 755.337, "ts": "11:47:10", "ev": "sistema", "cpu_pct": 50.4, "mem_pct": 51.2, "temp_c": 60.4, "load1": 3.78}
+{"t": 760.342, "ts": "11:47:15", "ev": "sistema", "cpu_pct": 34.8, "mem_pct": 50.8, "temp_c": 60.4, "load1": 3.56}
+{"t": 765.344, "ts": "11:47:20", "ev": "sistema", "cpu_pct": 48.5, "mem_pct": 50.1, "temp_c": 60.9, "load1": 3.35}
+{"t": 770.346, "ts": "11:47:25", "ev": "sistema", "cpu_pct": 36.2, "mem_pct": 50.1, "temp_c": 61.8, "load1": 3.24}
+{"t": 775.348, "ts": "11:47:30", "ev": "sistema", "cpu_pct": 38.8, "mem_pct": 49.1, "temp_c": 59.9, "load1": 3.14}
+{"t": 780.349, "ts": "11:47:35", "ev": "sistema", "cpu_pct": 33.5, "mem_pct": 49.1, "temp_c": 59.9, "load1": 3.05}
+{"t": 785.351, "ts": "11:47:40", "ev": "sistema", "cpu_pct": 33.9, "mem_pct": 48.7, "temp_c": 60.4, "load1": 2.81}
+{"t": 786.773, "ts": "11:47:42", "ev": "conversacion", "estado": "on"}
+{"t": 786.775, "ts": "11:47:42", "ev": "comando", "texto": "ana", "comando": "wake", "gap_prev": 400.64}
+{"t": 790.352, "ts": "11:47:45", "ev": "sistema", "cpu_pct": 32.0, "mem_pct": 49.0, "temp_c": 59.9, "load1": 2.66}
+{"t": 795.027, "ts": "11:47:50", "ev": "barge_in"}
+{"t": 795.354, "ts": "11:47:50", "ev": "sistema", "cpu_pct": 31.6, "mem_pct": 48.9, "temp_c": 61.3, "load1": 2.53}
+{"t": 800.356, "ts": "11:47:55", "ev": "sistema", "cpu_pct": 35.6, "mem_pct": 49.0, "temp_c": 59.4, "load1": 2.41}
+{"t": 805.358, "ts": "11:48:00", "ev": "sistema", "cpu_pct": 43.3, "mem_pct": 49.2, "temp_c": 60.9, "load1": 2.45}
+{"t": 805.821, "ts": "11:48:01", "ev": "sesion_fin", "duracion_s": 805.8, "n_turnos": 12}

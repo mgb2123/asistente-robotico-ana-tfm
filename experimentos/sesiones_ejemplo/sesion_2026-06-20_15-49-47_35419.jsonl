@@ -1,0 +1,490 @@
+{"t": 0.001, "ts": "15:49:47", "ev": "sesion_inicio", "fecha": "2026-06-20 15:49:47", "pid": 35419, "llm_model": "google/gemini-2.5-flash-lite"}
+{"t": 5.004, "ts": "15:49:52", "ev": "sistema", "cpu_pct": 75.2, "mem_pct": 81.2, "temp_c": 65.2, "load1": 6.67}
+{"t": 10.006, "ts": "15:49:57", "ev": "sistema", "cpu_pct": 59.1, "mem_pct": 82.3, "temp_c": 63.8, "load1": 6.29}
+{"t": 15.008, "ts": "15:50:02", "ev": "sistema", "cpu_pct": 41.7, "mem_pct": 82.7, "temp_c": 62.8, "load1": 5.79}
+{"t": 17.323, "ts": "15:50:04", "ev": "conversacion", "estado": "on"}
+{"t": 17.326, "ts": "15:50:04", "ev": "comando", "texto": "ana", "comando": "wake", "gap_prev": null}
+{"t": 20.009, "ts": "15:50:07", "ev": "sistema", "cpu_pct": 38.3, "mem_pct": 82.8, "temp_c": 60.9, "load1": 5.4}
+{"t": 24.984, "ts": "15:50:12", "ev": "comando", "texto": "muévete hacia adelante", "comando": "adelante", "gap_prev": null}
+{"t": 25.01, "ts": "15:50:12", "ev": "sistema", "cpu_pct": 40.5, "mem_pct": 83.0, "temp_c": 61.8, "load1": 5.05}
+{"t": 30.012, "ts": "15:50:17", "ev": "sistema", "cpu_pct": 39.8, "mem_pct": 83.1, "temp_c": 62.3, "load1": 4.81}
+{"t": 30.844, "ts": "15:50:18", "ev": "comando", "texto": "gira a la izquierda", "comando": "izquierda", "gap_prev": null}
+{"t": 35.014, "ts": "15:50:22", "ev": "sistema", "cpu_pct": 39.1, "mem_pct": 83.1, "temp_c": 60.9, "load1": 4.9}
+{"t": 36.591, "ts": "15:50:23", "ev": "comando", "texto": "adelante", "comando": "adelante", "gap_prev": null}
+{"t": 40.015, "ts": "15:50:27", "ev": "sistema", "cpu_pct": 39.2, "mem_pct": 83.2, "temp_c": 60.9, "load1": 4.91}
+{"t": 41.351, "ts": "15:50:28", "ev": "comando", "texto": "derecha", "comando": "derecha", "gap_prev": null}
+{"t": 45.018, "ts": "15:50:32", "ev": "sistema", "cpu_pct": 39.6, "mem_pct": 83.3, "temp_c": 60.9, "load1": 4.68}
+{"t": 47.138, "ts": "15:50:34", "ev": "comando", "texto": "que debes", "comando": "pregunta:que debes", "gap_prev": null}
+{"t": 50.019, "ts": "15:50:37", "ev": "sistema", "cpu_pct": 46.7, "mem_pct": 83.6, "temp_c": 62.8, "load1": 4.54}
+{"t": 50.615, "ts": "15:50:37", "ev": "llm", "q_chars": 9, "r_chars": 54, "llm_first_token": 3.383, "acciones": [], "pregunta": "que debes", "respuesta": "qué debo", "emocion": "sorpresa", "intensidad": 0.4}
+{"t": 53.457, "ts": "15:50:40", "ev": "turno", "n_chars": 8, "stt_to_llm1": 3.383, "llm1_to_aplay1": 0.282, "aplay1_to_end": 0.0, "gap_prev": null, "cola_speech_max": 1, "cola_tts_max": 1, "cola_audio_max": 0}
+{"t": 55.021, "ts": "15:50:42", "ev": "sistema", "cpu_pct": 38.5, "mem_pct": 83.6, "temp_c": 60.4, "load1": 4.42}
+{"t": 58.643, "ts": "15:50:45", "ev": "comando", "texto": "mhm", "comando": "pregunta:mhm", "gap_prev": 5.19}
+{"t": 59.157, "ts": "15:50:46", "ev": "llm", "q_chars": 3, "r_chars": 65, "llm_first_token": 0.417, "acciones": [], "pregunta": "mhm", "respuesta": "a ver dime qué necesitas", "emocion": "calma", "intensidad": 0.5}
+{"t": 60.023, "ts": "15:50:47", "ev": "sistema", "cpu_pct": 39.9, "mem_pct": 83.7, "temp_c": 61.3, "load1": 4.31}
+{"t": 63.502, "ts": "15:50:50", "ev": "turno", "n_chars": 24, "stt_to_llm1": 0.417, "llm1_to_aplay1": 0.277, "aplay1_to_end": 0.36, "gap_prev": 5.18, "cola_speech_max": 1, "cola_tts_max": 1, "cola_audio_max": 0}
+{"t": 65.025, "ts": "15:50:52", "ev": "sistema", "cpu_pct": 37.4, "mem_pct": 83.7, "temp_c": 61.3, "load1": 4.12}
+{"t": 68.57, "ts": "15:50:55", "ev": "comando", "texto": "qué miras", "comando": "ver", "gap_prev": 5.07}
+{"t": 70.034, "ts": "15:50:57", "ev": "sistema", "cpu_pct": 47.6, "mem_pct": 86.0, "temp_c": 62.8, "load1": 4.03}
+{"t": 75.046, "ts": "15:51:02", "ev": "sistema", "cpu_pct": 66.5, "mem_pct": 85.1, "temp_c": 63.8, "load1": 3.87}
+{"t": 80.047, "ts": "15:51:07", "ev": "sistema", "cpu_pct": 36.5, "mem_pct": 85.0, "temp_c": 62.8, "load1": 3.64}
+{"t": 82.995, "ts": "15:51:10", "ev": "comando", "texto": "hola", "comando": "pregunta:hola", "gap_prev": 19.49}
+{"t": 83.898, "ts": "15:51:11", "ev": "llm", "q_chars": 4, "r_chars": 53, "llm_first_token": 0.414, "acciones": [], "pregunta": "hola", "respuesta": "hola qué tal", "emocion": "calma", "intensidad": 0.5}
+{"t": 85.05, "ts": "15:51:12", "ev": "sistema", "cpu_pct": 42.5, "mem_pct": 85.0, "temp_c": 61.3, "load1": 3.43}
+{"t": 87.448, "ts": "15:51:14", "ev": "turno", "n_chars": 12, "stt_to_llm1": 0.414, "llm1_to_aplay1": 0.696, "aplay1_to_end": 0.0, "gap_prev": 19.48, "cola_speech_max": 1, "cola_tts_max": 1, "cola_audio_max": 0}
+{"t": 90.051, "ts": "15:51:17", "ev": "sistema", "cpu_pct": 40.8, "mem_pct": 85.1, "temp_c": 62.8, "load1": 3.47}
+{"t": 90.238, "ts": "15:51:17", "ev": "comando", "texto": "menos ofensiva de lo que diría yo", "comando": "pregunta:menos ofensiva de lo que diria yo", "gap_prev": 2.79}
+{"t": 90.903, "ts": "15:51:18", "ev": "llm", "q_chars": 33, "r_chars": 79, "llm_first_token": 0.562, "acciones": [], "pregunta": "menos ofensiva de lo que diria yo", "respuesta": "mhm no sé a qué te refieres con eso", "emocion": "sorpresa", "intensidad": 0.4}
+{"t": 95.054, "ts": "15:51:22", "ev": "sistema", "cpu_pct": 41.1, "mem_pct": 85.1, "temp_c": 62.3, "load1": 3.19}
+{"t": 96.678, "ts": "15:51:23", "ev": "turno", "n_chars": 34, "stt_to_llm1": 0.562, "llm1_to_aplay1": 0.298, "aplay1_to_end": 2.919, "gap_prev": 2.78, "cola_speech_max": 1, "cola_tts_max": 1, "cola_audio_max": 0}
+{"t": 100.056, "ts": "15:51:27", "ev": "sistema", "cpu_pct": 39.3, "mem_pct": 85.2, "temp_c": 61.8, "load1": 2.94}
+{"t": 102.111, "ts": "15:51:29", "ev": "comando", "texto": "le queda muy bien esas ropa tallas", "comando": "pregunta:le queda muy bien esas ropa tallas", "gap_prev": 5.43}
+{"t": 102.745, "ts": "15:51:30", "ev": "llm", "q_chars": 34, "r_chars": 70, "llm_first_token": 0.513, "acciones": [], "pregunta": "le queda muy bien esas ropa tallas", "respuesta": "ah qué bien me alegro mucho", "emocion": "alegria", "intensidad": 0.6}
+{"t": 105.058, "ts": "15:51:32", "ev": "sistema", "cpu_pct": 47.5, "mem_pct": 85.6, "temp_c": 62.8, "load1": 2.7}
+{"t": 106.237, "ts": "15:51:33", "ev": "turno", "n_chars": 26, "stt_to_llm1": 0.513, "llm1_to_aplay1": 0.259, "aplay1_to_end": 0.0, "gap_prev": 5.43, "cola_speech_max": 1, "cola_tts_max": 1, "cola_audio_max": 0}
+{"t": 110.061, "ts": "15:51:37", "ev": "sistema", "cpu_pct": 37.5, "mem_pct": 85.6, "temp_c": 60.4, "load1": 2.57}
+{"t": 115.063, "ts": "15:51:42", "ev": "sistema", "cpu_pct": 39.2, "mem_pct": 85.8, "temp_c": 62.3, "load1": 2.52}
+{"t": 116.359, "ts": "15:51:43", "ev": "comando", "texto": "enciende las luces que yo no sé cómo funciona", "comando": "pregunta:enciende las luces que yo no se como funciona", "gap_prev": 10.12}
+{"t": 117.067, "ts": "15:51:44", "ev": "llm", "q_chars": 45, "r_chars": 114, "llm_first_token": 0.609, "acciones": [], "pregunta": "enciende las luces que yo no se como funciona", "respuesta": "pues yo tampoco sé cómo encender las luces no tengo esa función integrada", "emocion": "calma", "intensidad": 0.5}
+{"t": 120.065, "ts": "15:51:47", "ev": "sistema", "cpu_pct": 45.7, "mem_pct": 85.5, "temp_c": 62.3, "load1": 2.4}
+{"t": 125.067, "ts": "15:51:52", "ev": "sistema", "cpu_pct": 48.5, "mem_pct": 85.8, "temp_c": 63.3, "load1": 2.29}
+{"t": 126.138, "ts": "15:51:53", "ev": "turno", "n_chars": 72, "stt_to_llm1": 0.609, "llm1_to_aplay1": 0.3, "aplay1_to_end": 5.034, "gap_prev": 10.11, "cola_speech_max": 1, "cola_tts_max": 1, "cola_audio_max": 0}
+{"t": 130.068, "ts": "15:51:57", "ev": "sistema", "cpu_pct": 50.9, "mem_pct": 86.0, "temp_c": 62.8, "load1": 2.18}
+{"t": 130.596, "ts": "15:51:57", "ev": "comando", "texto": "los", "comando": "pregunta:los", "gap_prev": 4.46}
+{"t": 131.186, "ts": "15:51:58", "ev": "llm", "q_chars": 3, "r_chars": 79, "llm_first_token": 0.51, "acciones": [], "pregunta": "los", "respuesta": "mhm no sé a qué te refieres con eso", "emocion": "sorpresa", "intensidad": 0.4}
+{"t": 135.07, "ts": "15:52:02", "ev": "sistema", "cpu_pct": 37.8, "mem_pct": 86.0, "temp_c": 60.9, "load1": 2.01}
+{"t": 137.032, "ts": "15:52:04", "ev": "turno", "n_chars": 34, "stt_to_llm1": 0.51, "llm1_to_aplay1": 0.301, "aplay1_to_end": 2.942, "gap_prev": 4.45, "cola_speech_max": 1, "cola_tts_max": 1, "cola_audio_max": 0}
+{"t": 140.072, "ts": "15:52:07", "ev": "sistema", "cpu_pct": 36.2, "mem_pct": 86.0, "temp_c": 61.8, "load1": 1.93}
+{"t": 145.074, "ts": "15:52:12", "ev": "sistema", "cpu_pct": 37.0, "mem_pct": 86.0, "temp_c": 61.3, "load1": 1.77}
+{"t": 147.03, "ts": "15:52:14", "ev": "comando", "texto": "eso sí", "comando": "pregunta:eso si", "gap_prev": 10.0}
+{"t": 147.605, "ts": "15:52:14", "ev": "llm", "q_chars": 6, "r_chars": 112, "llm_first_token": 0.439, "acciones": [], "pregunta": "eso si", "respuesta": "a ver si me puedes explicar un poco mejor qué es eso que no lo entiendo", "emocion": "calma", "intensidad": 0.5}
+{"t": 150.076, "ts": "15:52:17", "ev": "sistema", "cpu_pct": 40.3, "mem_pct": 86.0, "temp_c": 61.3, "load1": 1.63}
+{"t": 155.078, "ts": "15:52:22", "ev": "sistema", "cpu_pct": 33.3, "mem_pct": 86.1, "temp_c": 61.8, "load1": 2.38}
+{"t": 155.679, "ts": "15:52:22", "ev": "turno", "n_chars": 70, "stt_to_llm1": 0.439, "llm1_to_aplay1": 0.356, "aplay1_to_end": 3.905, "gap_prev": 9.99, "cola_speech_max": 1, "cola_tts_max": 1, "cola_audio_max": 0}
+{"t": 158.973, "ts": "15:52:26", "ev": "comando", "texto": "como", "comando": "pregunta:como", "gap_prev": 3.29}
+{"t": 159.493, "ts": "15:52:26", "ev": "llm", "q_chars": 4, "r_chars": 77, "llm_first_token": 0.459, "acciones": [], "pregunta": "como", "respuesta": "pues no sé qué quieres decir con eso", "emocion": "calma", "intensidad": 0.5}
+{"t": 160.084, "ts": "15:52:27", "ev": "sistema", "cpu_pct": 39.5, "mem_pct": 86.1, "temp_c": 61.8, "load1": 2.43}
+{"t": 164.662, "ts": "15:52:31", "ev": "turno", "n_chars": 35, "stt_to_llm1": 0.459, "llm1_to_aplay1": 0.323, "aplay1_to_end": 0.985, "gap_prev": 3.28, "cola_speech_max": 1, "cola_tts_max": 2, "cola_audio_max": 0}
+{"t": 165.088, "ts": "15:52:32", "ev": "sistema", "cpu_pct": 37.7, "mem_pct": 86.0, "temp_c": 61.3, "load1": 2.8}
+{"t": 170.09, "ts": "15:52:37", "ev": "sistema", "cpu_pct": 35.2, "mem_pct": 86.1, "temp_c": 61.3, "load1": 2.73}
+{"t": 173.247, "ts": "15:52:40", "ev": "comando", "texto": "qué estás mirando", "comando": "ver", "gap_prev": 8.58}
+{"t": 175.092, "ts": "15:52:42", "ev": "sistema", "cpu_pct": 53.7, "mem_pct": 87.1, "temp_c": 62.8, "load1": 2.99}
+{"t": 180.094, "ts": "15:52:47", "ev": "sistema", "cpu_pct": 56.5, "mem_pct": 86.3, "temp_c": 63.8, "load1": 2.83}
+{"t": 183.062, "ts": "15:52:50", "ev": "comando", "texto": "pues bien", "comando": "pregunta:pues bien", "gap_prev": 18.4}
+{"t": 183.818, "ts": "15:52:51", "ev": "llm", "q_chars": 9, "r_chars": 60, "llm_first_token": 0.685, "acciones": [], "pregunta": "pues bien", "respuesta": "ah vale pues genial", "emocion": "calma", "intensidad": 0.5}
+{"t": 185.096, "ts": "15:52:52", "ev": "sistema", "cpu_pct": 40.0, "mem_pct": 86.1, "temp_c": 61.8, "load1": 3.01}
+{"t": 187.831, "ts": "15:52:55", "ev": "turno", "n_chars": 19, "stt_to_llm1": 0.685, "llm1_to_aplay1": 0.242, "aplay1_to_end": 0.005, "gap_prev": 18.39, "cola_speech_max": 1, "cola_tts_max": 1, "cola_audio_max": 0}
+{"t": 190.097, "ts": "15:52:57", "ev": "sistema", "cpu_pct": 37.9, "mem_pct": 86.1, "temp_c": 61.8, "load1": 2.77}
+{"t": 195.1, "ts": "15:53:02", "ev": "sistema", "cpu_pct": 43.6, "mem_pct": 86.1, "temp_c": 62.8, "load1": 2.55}
+{"t": 198.236, "ts": "15:53:05", "ev": "comando", "texto": "los gastos", "comando": "pregunta:los gastos", "gap_prev": 10.4}
+{"t": 198.734, "ts": "15:53:06", "ev": "llm", "q_chars": 10, "r_chars": 51, "llm_first_token": 0.434, "acciones": [], "pregunta": "los gastos", "respuesta": "qué gastos", "emocion": "calma", "intensidad": 0.5}
+{"t": 200.101, "ts": "15:53:07", "ev": "sistema", "cpu_pct": 51.3, "mem_pct": 86.2, "temp_c": 62.3, "load1": 2.42}
+{"t": 202.084, "ts": "15:53:09", "ev": "turno", "n_chars": 10, "stt_to_llm1": 0.434, "llm1_to_aplay1": 0.235, "aplay1_to_end": 0.009, "gap_prev": 10.4, "cola_speech_max": 1, "cola_tts_max": 1, "cola_audio_max": 0}
+{"t": 205.106, "ts": "15:53:12", "ev": "sistema", "cpu_pct": 44.8, "mem_pct": 86.1, "temp_c": 63.3, "load1": 2.31}
+{"t": 206.449, "ts": "15:53:13", "ev": "comando", "texto": "qué porque dice solo viendo todo el rato", "comando": "pregunta:que porque dice solo viendo todo el rato", "gap_prev": 4.36}
+{"t": 207.193, "ts": "15:53:14", "ev": "llm", "q_chars": 40, "r_chars": 268, "llm_first_token": 0.413, "acciones": [], "pregunta": "que porque dice solo viendo todo el rato", "respuesta": "a ver si te he entendido bien tú quieres decir que los gastos que se están produciendo ahora mismo son porque alguien está viendo la televisión todo el rato y que no se apaga y que por eso se están produciendo los gastos es así", "emocion": "calma", "intensidad": 0.5}
+{"t": 210.108, "ts": "15:53:17", "ev": "sistema", "cpu_pct": 46.0, "mem_pct": 86.2, "temp_c": 61.8, "load1": 2.2}
+{"t": 215.112, "ts": "15:53:22", "ev": "sistema", "cpu_pct": 45.2, "mem_pct": 86.5, "temp_c": 63.8, "load1": 2.19}
+{"t": 217.784, "ts": "15:53:25", "ev": "barge_in"}
+{"t": 220.119, "ts": "15:53:27", "ev": "sistema", "cpu_pct": 51.3, "mem_pct": 86.7, "temp_c": 65.2, "load1": 2.17}
+{"t": 225.12, "ts": "15:53:32", "ev": "sistema", "cpu_pct": 53.8, "mem_pct": 87.0, "temp_c": 64.8, "load1": 2.16}
+{"t": 230.123, "ts": "15:53:37", "ev": "sistema", "cpu_pct": 48.3, "mem_pct": 87.0, "temp_c": 63.8, "load1": 2.06}
+{"t": 231.786, "ts": "15:53:39", "ev": "conversacion", "estado": "expirada"}
+{"t": 235.124, "ts": "15:53:42", "ev": "sistema", "cpu_pct": 53.9, "mem_pct": 87.3, "temp_c": 64.3, "load1": 2.14}
+{"t": 240.126, "ts": "15:53:47", "ev": "sistema", "cpu_pct": 43.0, "mem_pct": 87.3, "temp_c": 63.8, "load1": 2.05}
+{"t": 245.129, "ts": "15:53:52", "ev": "sistema", "cpu_pct": 43.8, "mem_pct": 87.3, "temp_c": 64.3, "load1": 2.2}
+{"t": 250.131, "ts": "15:53:57", "ev": "sistema", "cpu_pct": 46.5, "mem_pct": 87.4, "temp_c": 64.3, "load1": 2.11}
+{"t": 255.133, "ts": "15:54:02", "ev": "sistema", "cpu_pct": 38.5, "mem_pct": 87.5, "temp_c": 61.8, "load1": 2.02}
+{"t": 260.135, "ts": "15:54:07", "ev": "sistema", "cpu_pct": 35.4, "mem_pct": 87.4, "temp_c": 62.8, "load1": 2.18}
+{"t": 265.137, "ts": "15:54:12", "ev": "sistema", "cpu_pct": 35.9, "mem_pct": 87.4, "temp_c": 62.8, "load1": 2.16}
+{"t": 270.138, "ts": "15:54:17", "ev": "sistema", "cpu_pct": 34.8, "mem_pct": 87.4, "temp_c": 61.3, "load1": 2.23}
+{"t": 275.14, "ts": "15:54:22", "ev": "sistema", "cpu_pct": 35.3, "mem_pct": 87.4, "temp_c": 61.3, "load1": 2.21}
+{"t": 280.141, "ts": "15:54:27", "ev": "sistema", "cpu_pct": 35.6, "mem_pct": 87.4, "temp_c": 60.9, "load1": 2.11}
+{"t": 285.143, "ts": "15:54:32", "ev": "sistema", "cpu_pct": 35.5, "mem_pct": 87.4, "temp_c": 61.8, "load1": 2.03}
+{"t": 290.145, "ts": "15:54:37", "ev": "sistema", "cpu_pct": 34.9, "mem_pct": 87.4, "temp_c": 60.4, "load1": 1.94}
+{"t": 295.147, "ts": "15:54:42", "ev": "sistema", "cpu_pct": 35.3, "mem_pct": 87.4, "temp_c": 61.3, "load1": 1.79}
+{"t": 300.148, "ts": "15:54:47", "ev": "sistema", "cpu_pct": 35.7, "mem_pct": 87.5, "temp_c": 60.4, "load1": 1.64}
+{"t": 305.15, "ts": "15:54:52", "ev": "sistema", "cpu_pct": 36.0, "mem_pct": 87.5, "temp_c": 60.4, "load1": 1.59}
+{"t": 310.152, "ts": "15:54:57", "ev": "sistema", "cpu_pct": 35.9, "mem_pct": 87.5, "temp_c": 61.3, "load1": 1.62}
+{"t": 315.155, "ts": "15:55:02", "ev": "sistema", "cpu_pct": 35.8, "mem_pct": 87.5, "temp_c": 60.9, "load1": 1.49}
+{"t": 320.157, "ts": "15:55:07", "ev": "sistema", "cpu_pct": 35.0, "mem_pct": 87.5, "temp_c": 62.3, "load1": 1.53}
+{"t": 325.159, "ts": "15:55:12", "ev": "sistema", "cpu_pct": 40.4, "mem_pct": 87.5, "temp_c": 61.3, "load1": 1.49}
+{"t": 330.161, "ts": "15:55:17", "ev": "sistema", "cpu_pct": 36.3, "mem_pct": 87.6, "temp_c": 61.3, "load1": 1.37}
+{"t": 335.163, "ts": "15:55:22", "ev": "sistema", "cpu_pct": 38.8, "mem_pct": 87.6, "temp_c": 62.3, "load1": 1.26}
+{"t": 340.164, "ts": "15:55:27", "ev": "sistema", "cpu_pct": 55.8, "mem_pct": 87.7, "temp_c": 62.8, "load1": 1.64}
+{"t": 345.166, "ts": "15:55:32", "ev": "sistema", "cpu_pct": 52.6, "mem_pct": 87.6, "temp_c": 63.3, "load1": 1.59}
+{"t": 350.167, "ts": "15:55:37", "ev": "sistema", "cpu_pct": 41.6, "mem_pct": 87.6, "temp_c": 62.8, "load1": 1.54}
+{"t": 355.169, "ts": "15:55:42", "ev": "sistema", "cpu_pct": 32.8, "mem_pct": 87.7, "temp_c": 62.3, "load1": 1.42}
+{"t": 360.171, "ts": "15:55:47", "ev": "sistema", "cpu_pct": 30.7, "mem_pct": 87.7, "temp_c": 62.3, "load1": 1.39}
+{"t": 365.172, "ts": "15:55:52", "ev": "sistema", "cpu_pct": 28.3, "mem_pct": 87.8, "temp_c": 60.4, "load1": 1.27}
+{"t": 370.174, "ts": "15:55:57", "ev": "sistema", "cpu_pct": 27.0, "mem_pct": 87.8, "temp_c": 60.4, "load1": 1.17}
+{"t": 375.176, "ts": "15:56:02", "ev": "sistema", "cpu_pct": 28.2, "mem_pct": 87.7, "temp_c": 61.3, "load1": 1.16}
+{"t": 380.178, "ts": "15:56:07", "ev": "sistema", "cpu_pct": 30.0, "mem_pct": 87.8, "temp_c": 60.4, "load1": 1.06}
+{"t": 385.189, "ts": "15:56:12", "ev": "sistema", "cpu_pct": 31.8, "mem_pct": 87.9, "temp_c": 59.9, "load1": 1.06}
+{"t": 390.191, "ts": "15:56:17", "ev": "sistema", "cpu_pct": 33.1, "mem_pct": 88.0, "temp_c": 59.9, "load1": 1.05}
+{"t": 395.194, "ts": "15:56:22", "ev": "sistema", "cpu_pct": 29.9, "mem_pct": 88.0, "temp_c": 59.9, "load1": 1.77}
+{"t": 398.299, "ts": "15:56:25", "ev": "conversacion", "estado": "on"}
+{"t": 398.303, "ts": "15:56:25", "ev": "comando", "texto": "ana", "comando": "wake", "gap_prev": 196.22}
+{"t": 400.195, "ts": "15:56:27", "ev": "sistema", "cpu_pct": 28.5, "mem_pct": 87.9, "temp_c": 59.9, "load1": 1.63}
+{"t": 400.974, "ts": "15:56:28", "ev": "turno", "n_chars": 226, "stt_to_llm1": -191.436, "llm1_to_aplay1": 191.56, "aplay1_to_end": 0.002, "gap_prev": 196.21, "cola_speech_max": 1, "cola_tts_max": 1, "cola_audio_max": 0}
+{"t": 405.197, "ts": "15:56:32", "ev": "sistema", "cpu_pct": 30.7, "mem_pct": 87.9, "temp_c": 60.4, "load1": 1.5}
+{"t": 410.198, "ts": "15:56:37", "ev": "sistema", "cpu_pct": 28.9, "mem_pct": 87.9, "temp_c": 60.9, "load1": 1.46}
+{"t": 415.2, "ts": "15:56:42", "ev": "sistema", "cpu_pct": 29.8, "mem_pct": 87.9, "temp_c": 61.3, "load1": 1.66}
+{"t": 415.995, "ts": "15:56:43", "ev": "comando", "texto": "si se puede", "comando": "pregunta:si se puede", "gap_prev": 15.02}
+{"t": 416.703, "ts": "15:56:44", "ev": "llm", "q_chars": 11, "r_chars": 81, "llm_first_token": 0.599, "acciones": [], "pregunta": "si se puede", "respuesta": "Claro que sí dime en qué puedo ayudarte", "emocion": "calma", "intensidad": 0.5}
+{"t": 420.202, "ts": "15:56:47", "ev": "sistema", "cpu_pct": 35.9, "mem_pct": 88.0, "temp_c": 60.4, "load1": 1.61}
+{"t": 422.507, "ts": "15:56:49", "ev": "turno", "n_chars": 38, "stt_to_llm1": 0.599, "llm1_to_aplay1": 0.209, "aplay1_to_end": 2.026, "gap_prev": 15.02, "cola_speech_max": 1, "cola_tts_max": 1, "cola_audio_max": 0}
+{"t": 425.141, "ts": "15:56:52", "ev": "comando", "texto": "qué estás mirando", "comando": "ver", "gap_prev": 2.63}
+{"t": 425.204, "ts": "15:56:52", "ev": "sistema", "cpu_pct": 30.4, "mem_pct": 88.1, "temp_c": 60.4, "load1": 1.56}
+{"t": 430.206, "ts": "15:56:57", "ev": "sistema", "cpu_pct": 29.9, "mem_pct": 87.9, "temp_c": 59.9, "load1": 1.6}
+{"t": 435.208, "ts": "15:57:02", "ev": "sistema", "cpu_pct": 38.0, "mem_pct": 88.1, "temp_c": 60.9, "load1": 3.23}
+{"t": 436.194, "ts": "15:57:03", "ev": "comando", "texto": "sí si es que esos pa", "comando": "pregunta:si si es que esos pa", "gap_prev": 13.69}
+{"t": 436.726, "ts": "15:57:04", "ev": "llm", "q_chars": 20, "r_chars": 97, "llm_first_token": 0.426, "acciones": [], "pregunta": "si si es que esos pa", "respuesta": "A ver repítemelo por favor que no te he entendido bien", "emocion": "calma", "intensidad": 0.5}
+{"t": 440.212, "ts": "15:57:07", "ev": "sistema", "cpu_pct": 45.3, "mem_pct": 87.5, "temp_c": 61.3, "load1": 3.13}
+{"t": 443.831, "ts": "15:57:11", "ev": "turno", "n_chars": 54, "stt_to_llm1": 0.426, "llm1_to_aplay1": 0.45, "aplay1_to_end": 2.861, "gap_prev": 13.67, "cola_speech_max": 1, "cola_tts_max": 1, "cola_audio_max": 0}
+{"t": 445.214, "ts": "15:57:12", "ev": "sistema", "cpu_pct": 45.0, "mem_pct": 87.5, "temp_c": 61.3, "load1": 2.96}
+{"t": 445.473, "ts": "15:57:12", "ev": "comando", "texto": "tú", "comando": "pregunta:tu", "gap_prev": 1.64}
+{"t": 446.028, "ts": "15:57:13", "ev": "llm", "q_chars": 2, "r_chars": 81, "llm_first_token": 0.428, "acciones": [], "pregunta": "tu", "respuesta": "Sí soy yo Ana En qué te puedo ayudar", "emocion": "calma", "intensidad": 0.5}
+{"t": 450.215, "ts": "15:57:17", "ev": "sistema", "cpu_pct": 45.0, "mem_pct": 87.5, "temp_c": 62.3, "load1": 2.96}
+{"t": 451.839, "ts": "15:57:19", "ev": "turno", "n_chars": 35, "stt_to_llm1": 0.428, "llm1_to_aplay1": 0.263, "aplay1_to_end": 2.512, "gap_prev": 1.64, "cola_speech_max": 1, "cola_tts_max": 1, "cola_audio_max": 0}
+{"t": 455.217, "ts": "15:57:22", "ev": "sistema", "cpu_pct": 44.9, "mem_pct": 87.5, "temp_c": 61.8, "load1": 2.73}
+{"t": 455.817, "ts": "15:57:23", "ev": "comando", "texto": "lara", "comando": "pregunta:lara", "gap_prev": 3.98}
+{"t": 456.358, "ts": "15:57:23", "ev": "llm", "q_chars": 4, "r_chars": 70, "llm_first_token": 0.414, "acciones": [], "pregunta": "lara", "respuesta": "Lara Te refieres a Lara", "emocion": "sorpresa", "intensidad": 0.3}
+{"t": 460.221, "ts": "15:57:27", "ev": "sistema", "cpu_pct": 50.2, "mem_pct": 87.8, "temp_c": 62.3, "load1": 2.91}
+{"t": 460.429, "ts": "15:57:27", "ev": "turno", "n_chars": 23, "stt_to_llm1": 0.414, "llm1_to_aplay1": 0.333, "aplay1_to_end": 0.001, "gap_prev": 3.97, "cola_speech_max": 1, "cola_tts_max": 1, "cola_audio_max": 0}
+{"t": 463.716, "ts": "15:57:31", "ev": "comando", "texto": "dale veinte segundos", "comando": "pregunta:dale veinte segundos", "gap_prev": 3.29}
+{"t": 464.203, "ts": "15:57:31", "ev": "llm", "q_chars": 20, "r_chars": 70, "llm_first_token": 0.408, "acciones": [], "pregunta": "dale veinte segundos", "respuesta": "Claro te doy veinte segundos", "emocion": "calma", "intensidad": 0.5}
+{"t": 465.222, "ts": "15:57:32", "ev": "sistema", "cpu_pct": 48.5, "mem_pct": 87.9, "temp_c": 63.8, "load1": 2.84}
+{"t": 468.785, "ts": "15:57:36", "ev": "turno", "n_chars": 28, "stt_to_llm1": 0.408, "llm1_to_aplay1": 0.265, "aplay1_to_end": 0.614, "gap_prev": 3.28, "cola_speech_max": 1, "cola_tts_max": 1, "cola_audio_max": 0}
+{"t": 470.223, "ts": "15:57:37", "ev": "sistema", "cpu_pct": 43.2, "mem_pct": 87.8, "temp_c": 63.8, "load1": 2.85}
+{"t": 475.225, "ts": "15:57:42", "ev": "sistema", "cpu_pct": 43.0, "mem_pct": 87.8, "temp_c": 61.8, "load1": 3.1}
+{"t": 477.245, "ts": "15:57:44", "ev": "comando", "texto": "okay para de", "comando": "pregunta:okay para de", "gap_prev": 8.46}
+{"t": 477.791, "ts": "15:57:45", "ev": "llm", "q_chars": 12, "r_chars": 59, "llm_first_token": 0.437, "acciones": [], "pregunta": "okay para de", "respuesta": "Entendido paro ya", "emocion": "calma", "intensidad": 0.5}
+{"t": 480.227, "ts": "15:57:47", "ev": "sistema", "cpu_pct": 51.5, "mem_pct": 87.8, "temp_c": 62.3, "load1": 3.01}
+{"t": 481.657, "ts": "15:57:48", "ev": "turno", "n_chars": 17, "stt_to_llm1": 0.437, "llm1_to_aplay1": 0.3, "aplay1_to_end": 0.01, "gap_prev": 8.45, "cola_speech_max": 1, "cola_tts_max": 1, "cola_audio_max": 0}
+{"t": 485.228, "ts": "15:57:52", "ev": "sistema", "cpu_pct": 44.3, "mem_pct": 87.8, "temp_c": 62.8, "load1": 3.01}
+{"t": 485.521, "ts": "15:57:52", "ev": "comando", "texto": "qué estás mirando", "comando": "ver", "gap_prev": 3.86}
+{"t": 490.23, "ts": "15:57:57", "ev": "sistema", "cpu_pct": 79.1, "mem_pct": 89.0, "temp_c": 66.7, "load1": 3.57}
+{"t": 495.232, "ts": "15:58:02", "ev": "sistema", "cpu_pct": 44.6, "mem_pct": 88.1, "temp_c": 64.3, "load1": 3.37}
+{"t": 498.772, "ts": "15:58:06", "ev": "comando", "texto": "perfecto", "comando": "pregunta:perfecto", "gap_prev": 17.11}
+{"t": 499.296, "ts": "15:58:06", "ev": "llm", "q_chars": 8, "r_chars": 47, "llm_first_token": 0.469, "acciones": [], "pregunta": "perfecto", "respuesta": "Genial", "emocion": "calma", "intensidad": 0.5}
+{"t": 500.235, "ts": "15:58:07", "ev": "sistema", "cpu_pct": 45.4, "mem_pct": 88.1, "temp_c": 62.8, "load1": 3.18}
+{"t": 502.241, "ts": "15:58:09", "ev": "turno", "n_chars": 6, "stt_to_llm1": 0.469, "llm1_to_aplay1": 0.182, "aplay1_to_end": 0.0, "gap_prev": 17.11, "cola_speech_max": 1, "cola_tts_max": 1, "cola_audio_max": 0}
+{"t": 505.237, "ts": "15:58:12", "ev": "sistema", "cpu_pct": 45.0, "mem_pct": 88.1, "temp_c": 63.3, "load1": 3.24}
+{"t": 505.49, "ts": "15:58:12", "ev": "comando", "texto": "hostias", "comando": "pregunta:hostias", "gap_prev": 3.25}
+{"t": 505.99, "ts": "15:58:13", "ev": "llm", "q_chars": 7, "r_chars": 64, "llm_first_token": 0.446, "acciones": [], "pregunta": "hostias", "respuesta": "Vaya qué ha pasado", "emocion": "sorpresa", "intensidad": 0.7}
+{"t": 509.742, "ts": "15:58:17", "ev": "turno", "n_chars": 18, "stt_to_llm1": 0.446, "llm1_to_aplay1": 0.196, "aplay1_to_end": 0.004, "gap_prev": 3.24, "cola_speech_max": 1, "cola_tts_max": 1, "cola_audio_max": 0}
+{"t": 510.238, "ts": "15:58:17", "ev": "sistema", "cpu_pct": 47.7, "mem_pct": 88.2, "temp_c": 63.3, "load1": 3.06}
+{"t": 515.24, "ts": "15:58:22", "ev": "sistema", "cpu_pct": 61.2, "mem_pct": 88.3, "temp_c": 66.2, "load1": 3.14}
+{"t": 515.562, "ts": "15:58:22", "ev": "comando", "texto": "costados de de seis clave", "comando": "pregunta:costados de de seis clave", "gap_prev": 5.82}
+{"t": 516.067, "ts": "15:58:23", "ev": "llm", "q_chars": 25, "r_chars": 111, "llm_first_token": 0.399, "acciones": [], "pregunta": "costados de de seis clave", "respuesta": "Uy perdona no te he entendido bien Podrías repetirlo por favor", "emocion": "sorpresa", "intensidad": 0.8}
+{"t": 520.241, "ts": "15:58:27", "ev": "sistema", "cpu_pct": 50.5, "mem_pct": 88.2, "temp_c": 63.8, "load1": 2.97}
+{"t": 522.422, "ts": "15:58:29", "ev": "turno", "n_chars": 61, "stt_to_llm1": 0.399, "llm1_to_aplay1": 0.201, "aplay1_to_end": 2.417, "gap_prev": 5.81, "cola_speech_max": 1, "cola_tts_max": 1, "cola_audio_max": 0}
+{"t": 524.95, "ts": "15:58:32", "ev": "comando", "texto": "los sabes los", "comando": "pregunta:los sabes los", "gap_prev": 2.53}
+{"t": 525.243, "ts": "15:58:32", "ev": "sistema", "cpu_pct": 48.8, "mem_pct": 88.3, "temp_c": 63.3, "load1": 2.89}
+{"t": 525.683, "ts": "15:58:32", "ev": "llm", "q_chars": 13, "r_chars": 88, "llm_first_token": 0.625, "acciones": [], "pregunta": "los sabes los", "respuesta": "Ay no te pillo Me lo dices de otra manera", "emocion": "sorpresa", "intensidad": 0.8}
+{"t": 530.245, "ts": "15:58:37", "ev": "sistema", "cpu_pct": 45.0, "mem_pct": 88.2, "temp_c": 63.8, "load1": 2.82}
+{"t": 530.442, "ts": "15:58:37", "ev": "turno", "n_chars": 41, "stt_to_llm1": 0.625, "llm1_to_aplay1": 0.328, "aplay1_to_end": 0.736, "gap_prev": 2.52, "cola_speech_max": 1, "cola_tts_max": 1, "cola_audio_max": 0}
+{"t": 532.684, "ts": "15:58:39", "ev": "comando", "texto": "a la", "comando": "pregunta:a la", "gap_prev": 2.24}
+{"t": 533.201, "ts": "15:58:40", "ev": "llm", "q_chars": 4, "r_chars": 99, "llm_first_token": 0.393, "acciones": [], "pregunta": "a la", "respuesta": "Sigo sin enterarme lo siento Puedes decirlo de nuevo", "emocion": "sorpresa", "intensidad": 0.8}
+{"t": 535.247, "ts": "15:58:42", "ev": "sistema", "cpu_pct": 48.3, "mem_pct": 88.2, "temp_c": 63.8, "load1": 2.99}
+{"t": 538.762, "ts": "15:58:46", "ev": "turno", "n_chars": 51, "stt_to_llm1": 0.393, "llm1_to_aplay1": 0.217, "aplay1_to_end": 1.622, "gap_prev": 2.23, "cola_speech_max": 1, "cola_tts_max": 1, "cola_audio_max": 0}
+{"t": 540.248, "ts": "15:58:47", "ev": "sistema", "cpu_pct": 45.1, "mem_pct": 88.2, "temp_c": 62.8, "load1": 3.07}
+{"t": 544.017, "ts": "15:58:51", "ev": "comando", "texto": "bata", "comando": "pregunta:bata", "gap_prev": 5.26}
+{"t": 545.153, "ts": "15:58:52", "ev": "llm", "q_chars": 4, "r_chars": 111, "llm_first_token": 1.031, "acciones": [], "pregunta": "bata", "respuesta": "Uy perdona no te he entendido bien Podrías repetirlo por favor", "emocion": "sorpresa", "intensidad": 0.8}
+{"t": 545.25, "ts": "15:58:52", "ev": "sistema", "cpu_pct": 48.5, "mem_pct": 88.3, "temp_c": 64.8, "load1": 2.91}
+{"t": 550.252, "ts": "15:58:57", "ev": "sistema", "cpu_pct": 44.9, "mem_pct": 88.2, "temp_c": 63.3, "load1": 2.83}
+{"t": 551.667, "ts": "15:58:58", "ev": "turno", "n_chars": 61, "stt_to_llm1": 1.031, "llm1_to_aplay1": 0.269, "aplay1_to_end": 2.609, "gap_prev": 5.25, "cola_speech_max": 1, "cola_tts_max": 1, "cola_audio_max": 0}
+{"t": 554.911, "ts": "15:59:02", "ev": "comando", "texto": "estás viendo", "comando": "pregunta:estas viendo", "gap_prev": 3.24}
+{"t": 555.254, "ts": "15:59:02", "ev": "sistema", "cpu_pct": 45.8, "mem_pct": 88.3, "temp_c": 64.3, "load1": 2.77}
+{"t": 555.487, "ts": "15:59:02", "ev": "llm", "q_chars": 12, "r_chars": 120, "llm_first_token": 0.443, "acciones": [], "pregunta": "estas viendo", "respuesta": "No no estoy viendo nada solo estoy aquí para ayudarte En qué puedo servirte", "emocion": "calma", "intensidad": 0.5}
+{"t": 560.257, "ts": "15:59:07", "ev": "sistema", "cpu_pct": 45.4, "mem_pct": 88.3, "temp_c": 62.8, "load1": 3.03}
+{"t": 564.722, "ts": "15:59:12", "ev": "turno", "n_chars": 74, "stt_to_llm1": 0.443, "llm1_to_aplay1": 0.207, "aplay1_to_end": 5.341, "gap_prev": 3.24, "cola_speech_max": 1, "cola_tts_max": 1, "cola_audio_max": 0}
+{"t": 565.261, "ts": "15:59:12", "ev": "sistema", "cpu_pct": 45.6, "mem_pct": 88.3, "temp_c": 62.3, "load1": 3.26}
+{"t": 568.288, "ts": "15:59:15", "ev": "comando", "texto": "ana", "comando": "wake", "gap_prev": 3.56}
+{"t": 570.263, "ts": "15:59:17", "ev": "sistema", "cpu_pct": 44.4, "mem_pct": 88.3, "temp_c": 63.3, "load1": 3.4}
+{"t": 575.264, "ts": "15:59:22", "ev": "sistema", "cpu_pct": 42.8, "mem_pct": 88.3, "temp_c": 62.8, "load1": 3.37}
+{"t": 580.051, "ts": "15:59:27", "ev": "comando", "texto": "ahora", "comando": "pregunta:ahora", "gap_prev": 15.33}
+{"t": 580.266, "ts": "15:59:27", "ev": "sistema", "cpu_pct": 45.1, "mem_pct": 88.4, "temp_c": 62.8, "load1": 3.18}
+{"t": 580.577, "ts": "15:59:27", "ev": "llm", "q_chars": 5, "r_chars": 68, "llm_first_token": 0.458, "acciones": [], "pregunta": "ahora", "respuesta": "A ver qué necesitas ahora", "emocion": "calma", "intensidad": 0.5}
+{"t": 585.01, "ts": "15:59:32", "ev": "turno", "n_chars": 25, "stt_to_llm1": 0.458, "llm1_to_aplay1": 0.222, "aplay1_to_end": 0.361, "gap_prev": 15.32, "cola_speech_max": 1, "cola_tts_max": 1, "cola_audio_max": 0}
+{"t": 585.268, "ts": "15:59:32", "ev": "sistema", "cpu_pct": 44.0, "mem_pct": 88.3, "temp_c": 61.8, "load1": 3.17}
+{"t": 590.088, "ts": "15:59:37", "ev": "comando", "texto": "porque eso lo cambia con otras palabras y se confunde y no mira la acción de mirar", "comando": "ver", "gap_prev": 5.08}
+{"t": 590.271, "ts": "15:59:37", "ev": "sistema", "cpu_pct": 53.5, "mem_pct": 88.9, "temp_c": 64.3, "load1": 2.91}
+{"t": 595.273, "ts": "15:59:42", "ev": "sistema", "cpu_pct": 78.6, "mem_pct": 88.1, "temp_c": 67.2, "load1": 3.4}
+{"t": 600.274, "ts": "15:59:47", "ev": "sistema", "cpu_pct": 46.1, "mem_pct": 88.1, "temp_c": 63.8, "load1": 3.13}
+{"t": 600.429, "ts": "15:59:47", "ev": "comando", "texto": "tengo la mano", "comando": "pregunta:tengo la mano", "gap_prev": 15.42}
+{"t": 600.953, "ts": "15:59:48", "ev": "llm", "q_chars": 13, "r_chars": 82, "llm_first_token": 0.423, "acciones": [], "pregunta": "tengo la mano", "respuesta": "Qué te pasa en la mano Te duele", "emocion": "preocupacion", "intensidad": 0.7}
+{"t": 605.276, "ts": "15:59:52", "ev": "sistema", "cpu_pct": 46.7, "mem_pct": 88.1, "temp_c": 63.3, "load1": 3.04}
+{"t": 605.575, "ts": "15:59:52", "ev": "turno", "n_chars": 30, "stt_to_llm1": 0.423, "llm1_to_aplay1": 0.303, "aplay1_to_end": 0.487, "gap_prev": 15.41, "cola_speech_max": 1, "cola_tts_max": 1, "cola_audio_max": 0}
+{"t": 608.469, "ts": "15:59:55", "ev": "comando", "texto": "la mano me de es algo", "comando": "pregunta:la mano me de es algo", "gap_prev": 2.89}
+{"t": 609.009, "ts": "15:59:56", "ev": "llm", "q_chars": 21, "r_chars": 131, "llm_first_token": 0.415, "acciones": [], "pregunta": "la mano me de es algo", "respuesta": "Uy qué te pasa en la mano Te has hecho daño Necesitas que llame a emergencias", "emocion": "preocupacion", "intensidad": 0.8}
+{"t": 610.277, "ts": "15:59:57", "ev": "sistema", "cpu_pct": 49.6, "mem_pct": 88.1, "temp_c": 63.3, "load1": 2.87}
+{"t": 615.279, "ts": "16:00:02", "ev": "sistema", "cpu_pct": 45.2, "mem_pct": 88.1, "temp_c": 63.3, "load1": 2.8}
+{"t": 617.088, "ts": "16:00:04", "ev": "turno", "n_chars": 76, "stt_to_llm1": 0.415, "llm1_to_aplay1": 0.219, "aplay1_to_end": 4.184, "gap_prev": 2.89, "cola_speech_max": 1, "cola_tts_max": 1, "cola_audio_max": 0}
+{"t": 619.198, "ts": "16:00:06", "ev": "comando", "texto": "vez", "comando": "pregunta:vez", "gap_prev": 2.11}
+{"t": 619.8, "ts": "16:00:07", "ev": "emergencia", "via": "red_verbal"}
+{"t": 619.8, "ts": "16:00:07", "ev": "llm", "q_chars": 3, "r_chars": 114, "llm_first_token": 0.496, "acciones": ["emergency:auto"], "pregunta": "vez", "respuesta": "Vale voy a hacer la llamada de emergencia ahora mismo confirmas", "emocion": "preocupacion", "intensidad": 0.9}
+{"t": 620.289, "ts": "16:00:07", "ev": "sistema", "cpu_pct": 48.5, "mem_pct": 88.1, "temp_c": 63.3, "load1": 2.74}
+{"t": 625.29, "ts": "16:00:12", "ev": "sistema", "cpu_pct": 44.5, "mem_pct": 88.2, "temp_c": 62.8, "load1": 2.6}
+{"t": 626.883, "ts": "16:00:14", "ev": "turno", "n_chars": 62, "stt_to_llm1": 0.496, "llm1_to_aplay1": 0.28, "aplay1_to_end": 3.524, "gap_prev": 2.1, "cola_speech_max": 1, "cola_tts_max": 1, "cola_audio_max": 0}
+{"t": 628.979, "ts": "16:00:16", "ev": "comando", "texto": "todo", "comando": "pregunta:todo", "gap_prev": 2.09}
+{"t": 629.605, "ts": "16:00:16", "ev": "llm", "q_chars": 4, "r_chars": 121, "llm_first_token": 0.532, "acciones": ["emergency:peticion"], "pregunta": "todo", "respuesta": "Realizando la llamada de emergencia ahora", "emocion": "urgencia", "intensidad": 1.0}
+{"t": 629.638, "ts": "16:00:16", "ev": "barge_in"}
+{"t": 630.294, "ts": "16:00:17", "ev": "sistema", "cpu_pct": 53.8, "mem_pct": 88.3, "temp_c": 64.3, "load1": 2.63}
+{"t": 630.988, "ts": "16:00:18", "ev": "emergencia", "sid": "CAxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"}
+{"t": 635.295, "ts": "16:00:22", "ev": "sistema", "cpu_pct": 34.2, "mem_pct": 88.4, "temp_c": 62.8, "load1": 2.66}
+{"t": 637.783, "ts": "16:00:25", "ev": "barge_in"}
+{"t": 640.297, "ts": "16:00:27", "ev": "sistema", "cpu_pct": 35.2, "mem_pct": 88.7, "temp_c": 64.3, "load1": 2.53}
+{"t": 645.299, "ts": "16:00:32", "ev": "sistema", "cpu_pct": 39.6, "mem_pct": 89.0, "temp_c": 63.3, "load1": 2.41}
+{"t": 650.301, "ts": "16:00:37", "ev": "sistema", "cpu_pct": 40.9, "mem_pct": 89.1, "temp_c": 64.3, "load1": 2.29}
+{"t": 655.303, "ts": "16:00:42", "ev": "sistema", "cpu_pct": 48.3, "mem_pct": 89.2, "temp_c": 63.3, "load1": 2.19}
+{"t": 655.784, "ts": "16:00:43", "ev": "conversacion", "estado": "expirada"}
+{"t": 660.304, "ts": "16:00:47", "ev": "sistema", "cpu_pct": 45.2, "mem_pct": 89.6, "temp_c": 63.3, "load1": 2.17}
+{"t": 665.307, "ts": "16:00:52", "ev": "sistema", "cpu_pct": 44.1, "mem_pct": 89.6, "temp_c": 63.3, "load1": 2.16}
+{"t": 670.323, "ts": "16:00:57", "ev": "sistema", "cpu_pct": 36.3, "mem_pct": 90.0, "temp_c": 62.3, "load1": 1.99}
+{"t": 675.217, "ts": "16:01:02", "ev": "turno", "n_chars": 41, "stt_to_llm1": -35.543, "llm1_to_aplay1": 39.928, "aplay1_to_end": 1.88, "gap_prev": 38.16, "cola_speech_max": 1, "cola_tts_max": 1, "cola_audio_max": 0}
+{"t": 675.33, "ts": "16:01:02", "ev": "sistema", "cpu_pct": 41.9, "mem_pct": 89.2, "temp_c": 62.3, "load1": 1.99}
+{"t": 680.332, "ts": "16:01:07", "ev": "sistema", "cpu_pct": 43.7, "mem_pct": 88.9, "temp_c": 63.3, "load1": 1.99}
+{"t": 685.334, "ts": "16:01:12", "ev": "sistema", "cpu_pct": 42.2, "mem_pct": 88.9, "temp_c": 62.8, "load1": 2.23}
+{"t": 690.336, "ts": "16:01:17", "ev": "sistema", "cpu_pct": 41.2, "mem_pct": 89.0, "temp_c": 62.3, "load1": 2.13}
+{"t": 695.338, "ts": "16:01:22", "ev": "sistema", "cpu_pct": 43.6, "mem_pct": 89.0, "temp_c": 61.8, "load1": 1.96}
+{"t": 700.34, "ts": "16:01:27", "ev": "sistema", "cpu_pct": 43.9, "mem_pct": 89.0, "temp_c": 62.8, "load1": 2.12}
+{"t": 705.343, "ts": "16:01:32", "ev": "sistema", "cpu_pct": 43.0, "mem_pct": 89.0, "temp_c": 62.8, "load1": 2.03}
+{"t": 710.345, "ts": "16:01:37", "ev": "sistema", "cpu_pct": 44.0, "mem_pct": 89.0, "temp_c": 62.8, "load1": 2.03}
+{"t": 715.346, "ts": "16:01:42", "ev": "sistema", "cpu_pct": 42.6, "mem_pct": 89.0, "temp_c": 62.3, "load1": 1.95}
+{"t": 720.348, "ts": "16:01:47", "ev": "sistema", "cpu_pct": 44.4, "mem_pct": 89.0, "temp_c": 62.8, "load1": 1.87}
+{"t": 725.35, "ts": "16:01:52", "ev": "sistema", "cpu_pct": 43.7, "mem_pct": 89.0, "temp_c": 61.8, "load1": 1.96}
+{"t": 730.352, "ts": "16:01:57", "ev": "sistema", "cpu_pct": 42.8, "mem_pct": 89.0, "temp_c": 62.8, "load1": 1.97}
+{"t": 735.354, "ts": "16:02:02", "ev": "sistema", "cpu_pct": 44.4, "mem_pct": 89.0, "temp_c": 63.3, "load1": 2.13}
+{"t": 740.356, "ts": "16:02:07", "ev": "sistema", "cpu_pct": 44.4, "mem_pct": 89.1, "temp_c": 63.3, "load1": 2.12}
+{"t": 745.359, "ts": "16:02:12", "ev": "sistema", "cpu_pct": 47.2, "mem_pct": 89.0, "temp_c": 63.3, "load1": 2.19}
+{"t": 750.361, "ts": "16:02:17", "ev": "sistema", "cpu_pct": 47.5, "mem_pct": 89.0, "temp_c": 63.8, "load1": 2.17}
+{"t": 755.363, "ts": "16:02:22", "ev": "sistema", "cpu_pct": 50.2, "mem_pct": 89.0, "temp_c": 62.3, "load1": 3.04}
+{"t": 760.364, "ts": "16:02:27", "ev": "sistema", "cpu_pct": 58.5, "mem_pct": 89.1, "temp_c": 64.3, "load1": 3.04}
+{"t": 765.367, "ts": "16:02:32", "ev": "sistema", "cpu_pct": 60.0, "mem_pct": 89.1, "temp_c": 64.8, "load1": 2.95}
+{"t": 770.37, "ts": "16:02:37", "ev": "sistema", "cpu_pct": 52.5, "mem_pct": 89.2, "temp_c": 66.2, "load1": 3.36}
+{"t": 775.372, "ts": "16:02:42", "ev": "sistema", "cpu_pct": 62.2, "mem_pct": 89.4, "temp_c": 66.2, "load1": 3.17}
+{"t": 780.374, "ts": "16:02:47", "ev": "sistema", "cpu_pct": 53.3, "mem_pct": 89.4, "temp_c": 66.7, "load1": 3.24}
+{"t": 785.376, "ts": "16:02:52", "ev": "sistema", "cpu_pct": 54.7, "mem_pct": 89.4, "temp_c": 66.2, "load1": 3.22}
+{"t": 790.378, "ts": "16:02:57", "ev": "sistema", "cpu_pct": 50.3, "mem_pct": 89.4, "temp_c": 65.2, "load1": 3.12}
+{"t": 795.397, "ts": "16:03:02", "ev": "sistema", "cpu_pct": 46.0, "mem_pct": 89.5, "temp_c": 63.8, "load1": 3.43}
+{"t": 800.403, "ts": "16:03:07", "ev": "sistema", "cpu_pct": 42.8, "mem_pct": 89.4, "temp_c": 64.3, "load1": 3.32}
+{"t": 805.406, "ts": "16:03:12", "ev": "sistema", "cpu_pct": 43.0, "mem_pct": 89.4, "temp_c": 63.3, "load1": 3.13}
+{"t": 809.94, "ts": "16:03:17", "ev": "conversacion", "estado": "on"}
+{"t": 809.943, "ts": "16:03:17", "ev": "comando", "texto": "ana", "comando": "wake", "gap_prev": 134.73}
+{"t": 810.407, "ts": "16:03:17", "ev": "sistema", "cpu_pct": 46.3, "mem_pct": 89.4, "temp_c": 63.8, "load1": 3.12}
+{"t": 815.409, "ts": "16:03:22", "ev": "sistema", "cpu_pct": 44.3, "mem_pct": 89.4, "temp_c": 63.8, "load1": 3.03}
+{"t": 817.616, "ts": "16:03:24", "ev": "comando", "texto": "qué estás mirando", "comando": "ver", "gap_prev": 142.4}
+{"t": 820.417, "ts": "16:03:27", "ev": "sistema", "cpu_pct": 67.7, "mem_pct": 90.7, "temp_c": 67.7, "load1": 3.03}
+{"t": 825.42, "ts": "16:03:32", "ev": "sistema", "cpu_pct": 57.5, "mem_pct": 89.8, "temp_c": 65.7, "load1": 3.11}
+{"t": 830.422, "ts": "16:03:37", "ev": "sistema", "cpu_pct": 43.9, "mem_pct": 89.7, "temp_c": 63.3, "load1": 3.18}
+{"t": 831.606, "ts": "16:03:38", "ev": "comando", "texto": "lo que está bien", "comando": "pregunta:lo que esta bien", "gap_prev": 156.39}
+{"t": 832.332, "ts": "16:03:39", "ev": "llm", "q_chars": 16, "r_chars": 73, "llm_first_token": 0.63, "acciones": [], "pregunta": "lo que esta bien", "respuesta": "pues me alegro mucho de oír eso", "emocion": "calma", "intensidad": 0.5}
+{"t": 835.423, "ts": "16:03:42", "ev": "sistema", "cpu_pct": 49.8, "mem_pct": 89.7, "temp_c": 63.8, "load1": 4.36}
+{"t": 837.489, "ts": "16:03:44", "ev": "turno", "n_chars": 31, "stt_to_llm1": 0.63, "llm1_to_aplay1": 0.214, "aplay1_to_end": 2.234, "gap_prev": 156.38, "cola_speech_max": 1, "cola_tts_max": 1, "cola_audio_max": 0}
+{"t": 840.425, "ts": "16:03:47", "ev": "sistema", "cpu_pct": 49.3, "mem_pct": 89.8, "temp_c": 64.8, "load1": 4.17}
+{"t": 843.22, "ts": "16:03:50", "ev": "comando", "texto": "ponte donde", "comando": "pregunta:ponte donde", "gap_prev": 5.73}
+{"t": 843.806, "ts": "16:03:51", "ev": "llm", "q_chars": 11, "r_chars": 73, "llm_first_token": 0.502, "acciones": [], "pregunta": "ponte donde", "respuesta": "a ver dónde quieres que me ponga", "emocion": "calma", "intensidad": 0.7}
+{"t": 845.427, "ts": "16:03:52", "ev": "sistema", "cpu_pct": 67.8, "mem_pct": 89.8, "temp_c": 65.2, "load1": 4.96}
+{"t": 848.388, "ts": "16:03:55", "ev": "turno", "n_chars": 32, "stt_to_llm1": 0.502, "llm1_to_aplay1": 0.283, "aplay1_to_end": 0.492, "gap_prev": 5.72, "cola_speech_max": 1, "cola_tts_max": 2, "cola_audio_max": 0}
+{"t": 850.429, "ts": "16:03:57", "ev": "sistema", "cpu_pct": 46.4, "mem_pct": 89.8, "temp_c": 65.7, "load1": 4.64}
+{"t": 850.484, "ts": "16:03:57", "ev": "comando", "texto": "sí es más cómodo", "comando": "pregunta:si es mas comodo", "gap_prev": 2.1}
+{"t": 853.128, "ts": "16:04:00", "ev": "comando", "texto": "levantarle unos delgaditos", "comando": "pregunta:levantarle unos delgaditos", "gap_prev": 4.74}
+{"t": 854.321, "ts": "16:04:01", "ev": "llm", "q_chars": 26, "r_chars": 149, "llm_first_token": 0.997, "acciones": [], "pregunta": "levantarle unos delgaditos", "respuesta": "no entiendo lo que quieres decir con lo de levantarle unos delgaditos Me lo puedes explicar un poco mejor", "emocion": "calma", "intensidad": 0.5}
+{"t": 855.431, "ts": "16:04:02", "ev": "sistema", "cpu_pct": 66.4, "mem_pct": 89.9, "temp_c": 66.2, "load1": 4.91}
+{"t": 860.433, "ts": "16:04:07", "ev": "sistema", "cpu_pct": 46.9, "mem_pct": 89.9, "temp_c": 65.7, "load1": 4.6}
+{"t": 865.062, "ts": "16:04:12", "ev": "turno", "n_chars": 103, "stt_to_llm1": 0.997, "llm1_to_aplay1": 0.284, "aplay1_to_end": 7.497, "gap_prev": 4.73, "cola_speech_max": 1, "cola_tts_max": 1, "cola_audio_max": 0}
+{"t": 865.437, "ts": "16:04:12", "ev": "sistema", "cpu_pct": 45.3, "mem_pct": 89.9, "temp_c": 65.7, "load1": 4.39}
+{"t": 870.44, "ts": "16:04:17", "ev": "sistema", "cpu_pct": 54.1, "mem_pct": 89.9, "temp_c": 66.2, "load1": 4.2}
+{"t": 870.924, "ts": "16:04:18", "ev": "comando", "texto": "estos cinta por aquí sigo no se pueden usar de", "comando": "pregunta:estos cinta por aqui sigo no se pueden usar de", "gap_prev": 5.86}
+{"t": 871.56, "ts": "16:04:18", "ev": "llm", "q_chars": 46, "r_chars": 123, "llm_first_token": 0.444, "acciones": [], "pregunta": "estos cinta por aqui sigo no se pueden usar de", "respuesta": "mira no te estoy entendiendo nada de lo que me dices puedes repetirlo por favor", "emocion": "calma", "intensidad": 0.6}
+{"t": 875.442, "ts": "16:04:22", "ev": "sistema", "cpu_pct": 49.1, "mem_pct": 89.9, "temp_c": 64.8, "load1": 4.1}
+{"t": 880.298, "ts": "16:04:27", "ev": "turno", "n_chars": 78, "stt_to_llm1": 0.444, "llm1_to_aplay1": 0.254, "aplay1_to_end": 4.794, "gap_prev": 5.85, "cola_speech_max": 1, "cola_tts_max": 1, "cola_audio_max": 0}
+{"t": 880.444, "ts": "16:04:27", "ev": "sistema", "cpu_pct": 43.2, "mem_pct": 89.9, "temp_c": 63.8, "load1": 3.85}
+{"t": 885.377, "ts": "16:04:32", "ev": "comando", "texto": "qué estás mirando", "comando": "ver", "gap_prev": 5.08}
+{"t": 885.45, "ts": "16:04:32", "ev": "sistema", "cpu_pct": 46.9, "mem_pct": 90.1, "temp_c": 64.3, "load1": 3.71}
+{"t": 890.451, "ts": "16:04:37", "ev": "sistema", "cpu_pct": 76.7, "mem_pct": 90.8, "temp_c": 67.2, "load1": 3.73}
+{"t": 895.453, "ts": "16:04:42", "ev": "sistema", "cpu_pct": 44.3, "mem_pct": 90.5, "temp_c": 64.8, "load1": 3.51}
+{"t": 900.455, "ts": "16:04:47", "ev": "sistema", "cpu_pct": 45.8, "mem_pct": 90.4, "temp_c": 65.2, "load1": 3.55}
+{"t": 903.396, "ts": "16:04:50", "ev": "comando", "texto": "si no puso los ejemplos de antes y ya está crece tan uno acabado", "comando": "pregunta:si no puso los ejemplos de antes y ya esta crece tan uno acabado", "gap_prev": 23.1}
+{"t": 903.961, "ts": "16:04:51", "ev": "llm", "q_chars": 64, "r_chars": 113, "llm_first_token": 0.427, "acciones": [], "pregunta": "si no puso los ejemplos de antes y ya esta crece tan uno acabado", "respuesta": "Uy perdona no te he entendido muy bien podrías repetirlo por favor", "emocion": "sorpresa", "intensidad": 0.6}
+{"t": 905.457, "ts": "16:04:52", "ev": "sistema", "cpu_pct": 54.1, "mem_pct": 90.4, "temp_c": 65.2, "load1": 3.35}
+{"t": 910.458, "ts": "16:04:57", "ev": "sistema", "cpu_pct": 44.1, "mem_pct": 90.4, "temp_c": 64.3, "load1": 3.16}
+{"t": 911.038, "ts": "16:04:58", "ev": "turno", "n_chars": 65, "stt_to_llm1": 0.427, "llm1_to_aplay1": 0.219, "aplay1_to_end": 3.124, "gap_prev": 23.09, "cola_speech_max": 1, "cola_tts_max": 1, "cola_audio_max": 0}
+{"t": 915.46, "ts": "16:05:02", "ev": "sistema", "cpu_pct": 52.0, "mem_pct": 90.5, "temp_c": 65.2, "load1": 2.99}
+{"t": 917.197, "ts": "16:05:04", "ev": "comando", "texto": "dónde estaba tu detrás del sofá", "comando": "pregunta:donde estaba tu detras del sofa", "gap_prev": 6.16}
+{"t": 918.116, "ts": "16:05:05", "ev": "llm", "q_chars": 31, "r_chars": 161, "llm_first_token": 0.446, "acciones": [], "pregunta": "donde estaba tu detras del sofa", "respuesta": "Detrás del sofá no tengo nada registrado solo conozco la cama la cocina tu habitación la mesa el salón y la base", "emocion": "sorpresa", "intensidad": 0.4}
+{"t": 920.465, "ts": "16:05:07", "ev": "sistema", "cpu_pct": 55.3, "mem_pct": 90.4, "temp_c": 65.7, "load1": 3.15}
+{"t": 925.466, "ts": "16:05:12", "ev": "sistema", "cpu_pct": 44.8, "mem_pct": 90.4, "temp_c": 64.3, "load1": 3.46}
+{"t": 929.351, "ts": "16:05:16", "ev": "turno", "n_chars": 111, "stt_to_llm1": 0.446, "llm1_to_aplay1": 0.689, "aplay1_to_end": 7.073, "gap_prev": 6.15, "cola_speech_max": 1, "cola_tts_max": 2, "cola_audio_max": 0}
+{"t": 930.469, "ts": "16:05:17", "ev": "sistema", "cpu_pct": 49.9, "mem_pct": 90.5, "temp_c": 66.2, "load1": 3.74}
+{"t": 933.818, "ts": "16:05:21", "ev": "comando", "texto": "esas madre no pero tú", "comando": "pregunta:esas madre no pero tu", "gap_prev": 4.47}
+{"t": 935.016, "ts": "16:05:22", "ev": "llm", "q_chars": 21, "r_chars": 118, "llm_first_token": 0.483, "acciones": [], "pregunta": "esas madre no pero tu", "respuesta": "A ver no te he entendido bien podrías decírmelo de otra manera por favor", "emocion": "sorpresa", "intensidad": 0.4}
+{"t": 935.474, "ts": "16:05:22", "ev": "sistema", "cpu_pct": 67.7, "mem_pct": 90.8, "temp_c": 67.2, "load1": 3.92}
+{"t": 940.487, "ts": "16:05:27", "ev": "sistema", "cpu_pct": 45.1, "mem_pct": 90.6, "temp_c": 66.2, "load1": 3.93}
+{"t": 941.768, "ts": "16:05:29", "ev": "turno", "n_chars": 72, "stt_to_llm1": 0.483, "llm1_to_aplay1": 0.281, "aplay1_to_end": 3.441, "gap_prev": 4.46, "cola_speech_max": 1, "cola_tts_max": 1, "cola_audio_max": 0}
+{"t": 945.488, "ts": "16:05:32", "ev": "sistema", "cpu_pct": 43.1, "mem_pct": 90.5, "temp_c": 65.2, "load1": 3.69}
+{"t": 950.49, "ts": "16:05:37", "ev": "sistema", "cpu_pct": 42.5, "mem_pct": 90.5, "temp_c": 64.8, "load1": 3.8}
+{"t": 951.092, "ts": "16:05:38", "ev": "comando", "texto": "qué estás mirando", "comando": "ver", "gap_prev": 9.32}
+{"t": 955.493, "ts": "16:05:42", "ev": "sistema", "cpu_pct": 77.2, "mem_pct": 91.4, "temp_c": 67.7, "load1": 3.89}
+{"t": 960.495, "ts": "16:05:47", "ev": "sistema", "cpu_pct": 44.5, "mem_pct": 90.1, "temp_c": 66.2, "load1": 3.66}
+{"t": 964.432, "ts": "16:05:51", "ev": "comando", "texto": "el madre", "comando": "pregunta:el madre", "gap_prev": 22.66}
+{"t": 964.987, "ts": "16:05:52", "ev": "llm", "q_chars": 8, "r_chars": 113, "llm_first_token": 0.435, "acciones": [], "pregunta": "el madre", "respuesta": "Uy perdona no te he entendido muy bien podrías repetirlo por favor", "emocion": "sorpresa", "intensidad": 0.5}
+{"t": 965.497, "ts": "16:05:52", "ev": "sistema", "cpu_pct": 48.7, "mem_pct": 90.1, "temp_c": 65.7, "load1": 4.17}
+{"t": 970.499, "ts": "16:05:57", "ev": "sistema", "cpu_pct": 43.1, "mem_pct": 90.1, "temp_c": 66.2, "load1": 3.92}
+{"t": 972.017, "ts": "16:05:59", "ev": "turno", "n_chars": 65, "stt_to_llm1": 0.435, "llm1_to_aplay1": 0.255, "aplay1_to_end": 3.001, "gap_prev": 22.66, "cola_speech_max": 1, "cola_tts_max": 1, "cola_audio_max": 0}
+{"t": 974.63, "ts": "16:06:01", "ev": "comando", "texto": "qué estás mirando", "comando": "ver", "gap_prev": 2.61}
+{"t": 975.501, "ts": "16:06:02", "ev": "sistema", "cpu_pct": 53.3, "mem_pct": 90.9, "temp_c": 65.7, "load1": 4.72}
+{"t": 980.507, "ts": "16:06:07", "ev": "sistema", "cpu_pct": 69.6, "mem_pct": 91.1, "temp_c": 66.7, "load1": 4.59}
+{"t": 985.51, "ts": "16:06:12", "ev": "sistema", "cpu_pct": 45.7, "mem_pct": 90.9, "temp_c": 64.8, "load1": 4.46}
+{"t": 987.577, "ts": "16:06:14", "ev": "comando", "texto": "ojalá sobre el ángulo que tienen para bebés", "comando": "pregunta:ojala sobre el angulo que tienen para bebes", "gap_prev": 15.56}
+{"t": 988.321, "ts": "16:06:15", "ev": "llm", "q_chars": 43, "r_chars": 139, "llm_first_token": 0.562, "acciones": [], "pregunta": "ojala sobre el angulo que tienen para bebes", "respuesta": "No sé muy bien a qué te refieres con eso del ángulo para bebés me lo explicas un poquito mejor", "emocion": "sorpresa", "intensidad": 0.4}
+{"t": 990.512, "ts": "16:06:17", "ev": "sistema", "cpu_pct": 49.4, "mem_pct": 90.8, "temp_c": 65.7, "load1": 4.1}
+{"t": 995.514, "ts": "16:06:22", "ev": "sistema", "cpu_pct": 43.8, "mem_pct": 90.8, "temp_c": 65.7, "load1": 3.85}
+{"t": 997.69, "ts": "16:06:25", "ev": "turno", "n_chars": 93, "stt_to_llm1": 0.562, "llm1_to_aplay1": 0.345, "aplay1_to_end": 5.369, "gap_prev": 15.55, "cola_speech_max": 1, "cola_tts_max": 1, "cola_audio_max": 0}
+{"t": 1000.516, "ts": "16:06:27", "ev": "sistema", "cpu_pct": 51.4, "mem_pct": 90.9, "temp_c": 66.2, "load1": 3.7}
+{"t": 1002.714, "ts": "16:06:30", "ev": "comando", "texto": "de pudo haber visto sobre el cuerpo y dice que no puedes imaginar lo que", "comando": "pregunta:de pudo haber visto sobre el cuerpo y dice que no puedes imaginar lo que", "gap_prev": 5.02}
+{"t": 1003.298, "ts": "16:06:30", "ev": "llm", "q_chars": 72, "r_chars": 165, "llm_first_token": 0.456, "acciones": [], "pregunta": "de pudo haber visto sobre el cuerpo y dice que no puedes imaginar lo que", "respuesta": "Vaya eso suena un poco inquietante quieres que te traiga algo para que te sientas más cómoda o que te distraiga un poco", "emocion": "sorpresa", "intensidad": 0.5}
+{"t": 1005.518, "ts": "16:06:32", "ev": "sistema", "cpu_pct": 54.0, "mem_pct": 90.8, "temp_c": 66.2, "load1": 3.41}
+{"t": 1010.52, "ts": "16:06:37", "ev": "sistema", "cpu_pct": 44.5, "mem_pct": 90.9, "temp_c": 65.2, "load1": 3.29}
+{"t": 1012.997, "ts": "16:06:40", "ev": "turno", "n_chars": 119, "stt_to_llm1": 0.456, "llm1_to_aplay1": 0.236, "aplay1_to_end": 5.755, "gap_prev": 5.02, "cola_speech_max": 1, "cola_tts_max": 1, "cola_audio_max": 0}
+{"t": 1015.521, "ts": "16:06:42", "ev": "sistema", "cpu_pct": 45.4, "mem_pct": 90.9, "temp_c": 64.3, "load1": 3.19}
+{"t": 1018.054, "ts": "16:06:45", "ev": "comando", "texto": "todas las", "comando": "pregunta:todas las", "gap_prev": 5.06}
+{"t": 1018.715, "ts": "16:06:46", "ev": "llm", "q_chars": 9, "r_chars": 105, "llm_first_token": 0.557, "acciones": [], "pregunta": "todas las", "respuesta": "Perdona no te he entendido bien podrías repetirlo por favor", "emocion": "sorpresa", "intensidad": 0.5}
+{"t": 1020.523, "ts": "16:06:47", "ev": "sistema", "cpu_pct": 54.8, "mem_pct": 90.9, "temp_c": 65.2, "load1": 3.17}
+{"t": 1025.075, "ts": "16:06:52", "ev": "turno", "n_chars": 58, "stt_to_llm1": 0.557, "llm1_to_aplay1": 0.252, "aplay1_to_end": 2.36, "gap_prev": 5.05, "cola_speech_max": 1, "cola_tts_max": 1, "cola_audio_max": 0}
+{"t": 1025.525, "ts": "16:06:52", "ev": "sistema", "cpu_pct": 45.0, "mem_pct": 90.8, "temp_c": 65.7, "load1": 3.4}
+{"t": 1028.917, "ts": "16:06:56", "ev": "comando", "texto": "además que es", "comando": "pregunta:ademas que es", "gap_prev": 3.84}
+{"t": 1029.55, "ts": "16:06:56", "ev": "llm", "q_chars": 13, "r_chars": 133, "llm_first_token": 0.485, "acciones": [], "pregunta": "ademas que es", "respuesta": "A ver me lo explicas un poquito mejor qué es lo que no entiendes o qué te gustaría saber", "emocion": "sorpresa", "intensidad": 0.5}
+{"t": 1030.526, "ts": "16:06:57", "ev": "sistema", "cpu_pct": 52.1, "mem_pct": 90.9, "temp_c": 66.7, "load1": 3.45}
+{"t": 1035.528, "ts": "16:07:02", "ev": "sistema", "cpu_pct": 45.5, "mem_pct": 90.9, "temp_c": 65.7, "load1": 3.49}
+{"t": 1037.65, "ts": "16:07:04", "ev": "turno", "n_chars": 88, "stt_to_llm1": 0.485, "llm1_to_aplay1": 0.248, "aplay1_to_end": 4.144, "gap_prev": 3.83, "cola_speech_max": 1, "cola_tts_max": 1, "cola_audio_max": 0}
+{"t": 1040.53, "ts": "16:07:07", "ev": "sistema", "cpu_pct": 46.2, "mem_pct": 90.9, "temp_c": 63.8, "load1": 3.45}
+{"t": 1040.728, "ts": "16:07:08", "ev": "comando", "texto": "qué estás mirando", "comando": "ver", "gap_prev": 3.08}
+{"t": 1045.531, "ts": "16:07:12", "ev": "sistema", "cpu_pct": 78.0, "mem_pct": 91.2, "temp_c": 67.7, "load1": 3.42}
+{"t": 1050.533, "ts": "16:07:17", "ev": "sistema", "cpu_pct": 48.9, "mem_pct": 91.3, "temp_c": 66.7, "load1": 3.7}
+{"t": 1052.727, "ts": "16:07:20", "ev": "comando", "texto": "no venía para trabajar", "comando": "pregunta:no venia para trabajar", "gap_prev": 15.08}
+{"t": 1053.436, "ts": "16:07:20", "ev": "llm", "q_chars": 22, "r_chars": 110, "llm_first_token": 0.518, "acciones": [], "pregunta": "no venia para trabajar", "respuesta": "Ah vale pues entonces no te molesto más y si necesitas algo aquí estoy", "emocion": "calma", "intensidad": 0.6}
+{"t": 1055.535, "ts": "16:07:22", "ev": "sistema", "cpu_pct": 59.6, "mem_pct": 91.2, "temp_c": 67.2, "load1": 3.89}
+{"t": 1060.536, "ts": "16:07:27", "ev": "sistema", "cpu_pct": 44.3, "mem_pct": 91.2, "temp_c": 65.7, "load1": 3.74}
+{"t": 1063.257, "ts": "16:07:30", "ev": "turno", "n_chars": 70, "stt_to_llm1": 0.518, "llm1_to_aplay1": 0.343, "aplay1_to_end": 5.861, "gap_prev": 15.07, "cola_speech_max": 1, "cola_tts_max": 1, "cola_audio_max": 0}
+{"t": 1065.17, "ts": "16:07:32", "ev": "comando", "texto": "mirando", "comando": "ver", "gap_prev": 1.91}
+{"t": 1065.54, "ts": "16:07:32", "ev": "sistema", "cpu_pct": 48.2, "mem_pct": 92.1, "temp_c": 66.2, "load1": 3.52}
+{"t": 1070.544, "ts": "16:07:37", "ev": "sistema", "cpu_pct": 75.1, "mem_pct": 91.3, "temp_c": 68.2, "load1": 3.64}
+{"t": 1075.548, "ts": "16:07:42", "ev": "sistema", "cpu_pct": 45.2, "mem_pct": 91.2, "temp_c": 65.7, "load1": 3.51}
+{"t": 1080.55, "ts": "16:07:47", "ev": "sistema", "cpu_pct": 45.8, "mem_pct": 91.1, "temp_c": 66.2, "load1": 3.31}
+{"t": 1080.988, "ts": "16:07:48", "ev": "comando", "texto": "qué estás mirando", "comando": "ver", "gap_prev": 17.73}
+{"t": 1085.556, "ts": "16:07:52", "ev": "sistema", "cpu_pct": 76.8, "mem_pct": 91.4, "temp_c": 68.2, "load1": 3.68}
+{"t": 1090.558, "ts": "16:07:57", "ev": "sistema", "cpu_pct": 44.8, "mem_pct": 90.5, "temp_c": 67.7, "load1": 3.47}
+{"t": 1094.493, "ts": "16:08:01", "ev": "comando", "texto": "parece que esta es la de estas de perfecta", "comando": "pregunta:parece que esta es la de estas de perfecta", "gap_prev": 31.24}
+{"t": 1095.061, "ts": "16:08:02", "ev": "llm", "q_chars": 42, "r_chars": 98, "llm_first_token": 0.421, "acciones": [], "pregunta": "parece que esta es la de estas de perfecta", "respuesta": "pues mira qué bien que te haya gustado mi presentación", "emocion": "sorpresa", "intensidad": 0.4}
+{"t": 1095.56, "ts": "16:08:02", "ev": "sistema", "cpu_pct": 60.6, "mem_pct": 90.4, "temp_c": 67.7, "load1": 3.27}
+{"t": 1100.563, "ts": "16:08:07", "ev": "sistema", "cpu_pct": 47.4, "mem_pct": 90.4, "temp_c": 66.2, "load1": 3.33}
+{"t": 1101.078, "ts": "16:08:08", "ev": "turno", "n_chars": 53, "stt_to_llm1": 0.421, "llm1_to_aplay1": 0.317, "aplay1_to_end": 2.211, "gap_prev": 31.22, "cola_speech_max": 1, "cola_tts_max": 2, "cola_audio_max": 0}
+{"t": 1103.42, "ts": "16:08:10", "ev": "comando", "texto": "los dos lados", "comando": "pregunta:los dos lados", "gap_prev": 2.34}
+{"t": 1103.969, "ts": "16:08:11", "ev": "llm", "q_chars": 13, "r_chars": 113, "llm_first_token": 0.378, "acciones": [], "pregunta": "los dos lados", "respuesta": "te refieres a que te gustan ambas cosas o ambas opciones que te he dado", "emocion": "calma", "intensidad": 0.5}
+{"t": 1105.564, "ts": "16:08:12", "ev": "sistema", "cpu_pct": 52.1, "mem_pct": 90.4, "temp_c": 66.7, "load1": 3.14}
+{"t": 1110.566, "ts": "16:08:17", "ev": "sistema", "cpu_pct": 48.2, "mem_pct": 90.4, "temp_c": 66.2, "load1": 3.13}
+{"t": 1113.209, "ts": "16:08:20", "ev": "turno", "n_chars": 70, "stt_to_llm1": 0.378, "llm1_to_aplay1": 0.248, "aplay1_to_end": 5.374, "gap_prev": 2.33, "cola_speech_max": 1, "cola_tts_max": 1, "cola_audio_max": 0}
+{"t": 1115.568, "ts": "16:08:22", "ev": "sistema", "cpu_pct": 49.8, "mem_pct": 90.4, "temp_c": 65.7, "load1": 2.96}
+{"t": 1117.993, "ts": "16:08:25", "ev": "comando", "texto": "qué estás mirando", "comando": "ver", "gap_prev": 4.78}
+{"t": 1120.571, "ts": "16:08:27", "ev": "sistema", "cpu_pct": 63.8, "mem_pct": 92.0, "temp_c": 67.7, "load1": 2.88}
+{"t": 1125.576, "ts": "16:08:32", "ev": "sistema", "cpu_pct": 60.4, "mem_pct": 91.2, "temp_c": 66.7, "load1": 2.73}
+{"t": 1130.578, "ts": "16:08:37", "ev": "sistema", "cpu_pct": 43.9, "mem_pct": 91.2, "temp_c": 67.2, "load1": 2.59}
+{"t": 1135.585, "ts": "16:08:42", "ev": "sistema", "cpu_pct": 41.9, "mem_pct": 91.1, "temp_c": 65.2, "load1": 2.54}
+{"t": 1137.145, "ts": "16:08:44", "ev": "comando", "texto": "qué estás mirando", "comando": "ver", "gap_prev": 23.94}
+{"t": 1140.588, "ts": "16:08:47", "ev": "sistema", "cpu_pct": 70.0, "mem_pct": 91.9, "temp_c": 68.2, "load1": 3.14}
+{"t": 1145.59, "ts": "16:08:52", "ev": "sistema", "cpu_pct": 52.2, "mem_pct": 91.7, "temp_c": 67.2, "load1": 2.97}
+{"t": 1149.366, "ts": "16:08:56", "ev": "comando", "texto": "bien hecho", "comando": "pregunta:bien hecho", "gap_prev": 36.16}
+{"t": 1149.878, "ts": "16:08:57", "ev": "llm", "q_chars": 10, "r_chars": 77, "llm_first_token": 0.391, "acciones": [], "pregunta": "bien hecho", "respuesta": "Gracias me alegra que pienses eso", "emocion": "alegria", "intensidad": 0.7}
+{"t": 1150.593, "ts": "16:08:57", "ev": "sistema", "cpu_pct": 47.8, "mem_pct": 91.7, "temp_c": 67.7, "load1": 2.73}
+{"t": 1154.592, "ts": "16:09:01", "ev": "turno", "n_chars": 32, "stt_to_llm1": 0.391, "llm1_to_aplay1": 0.238, "aplay1_to_end": 1.734, "gap_prev": 36.15, "cola_speech_max": 1, "cola_tts_max": 1, "cola_audio_max": 0}
+{"t": 1155.595, "ts": "16:09:02", "ev": "sistema", "cpu_pct": 45.5, "mem_pct": 91.7, "temp_c": 66.2, "load1": 3.47}
+{"t": 1160.518, "ts": "16:09:07", "ev": "comando", "texto": "esa marina entorpecer y luego", "comando": "pregunta:esa marina entorpecer y luego", "gap_prev": 5.93}
+{"t": 1160.6, "ts": "16:09:07", "ev": "sistema", "cpu_pct": 58.2, "mem_pct": 91.7, "temp_c": 68.2, "load1": 3.6}
+{"t": 1161.098, "ts": "16:09:08", "ev": "llm", "q_chars": 29, "r_chars": 110, "llm_first_token": 0.461, "acciones": [], "pregunta": "esa marina entorpecer y luego", "respuesta": "Uy creo que no te he entendido bien podrías repetirlo por favor", "emocion": "sorpresa", "intensidad": 0.4}
+{"t": 1165.604, "ts": "16:09:12", "ev": "sistema", "cpu_pct": 49.5, "mem_pct": 91.7, "temp_c": 66.2, "load1": 3.31}
+{"t": 1167.883, "ts": "16:09:15", "ev": "turno", "n_chars": 62, "stt_to_llm1": 0.461, "llm1_to_aplay1": 0.279, "aplay1_to_end": 2.7, "gap_prev": 5.92, "cola_speech_max": 1, "cola_tts_max": 1, "cola_audio_max": 0}
+{"t": 1170.614, "ts": "16:09:17", "ev": "sistema", "cpu_pct": 50.9, "mem_pct": 91.8, "temp_c": 67.2, "load1": 3.12}
+{"t": 1171.504, "ts": "16:09:18", "ev": "comando", "texto": "desde esta", "comando": "pregunta:desde esta", "gap_prev": 3.62}
+{"t": 1172.046, "ts": "16:09:19", "ev": "llm", "q_chars": 10, "r_chars": 110, "llm_first_token": 0.445, "acciones": [], "pregunta": "desde esta", "respuesta": "Uy creo que no te he entendido bien podrías repetirlo por favor", "emocion": "sorpresa", "intensidad": 0.4}
+{"t": 1175.616, "ts": "16:09:22", "ev": "sistema", "cpu_pct": 54.5, "mem_pct": 91.7, "temp_c": 66.2, "load1": 2.95}
+{"t": 1178.816, "ts": "16:09:26", "ev": "turno", "n_chars": 62, "stt_to_llm1": 0.445, "llm1_to_aplay1": 0.33, "aplay1_to_end": 2.701, "gap_prev": 3.61, "cola_speech_max": 1, "cola_tts_max": 2, "cola_audio_max": 0}
+{"t": 1180.618, "ts": "16:09:27", "ev": "sistema", "cpu_pct": 47.2, "mem_pct": 91.7, "temp_c": 65.7, "load1": 2.88}
+{"t": 1184.002, "ts": "16:09:31", "ev": "comando", "texto": "se", "comando": "pregunta:se", "gap_prev": 5.19}
+{"t": 1184.579, "ts": "16:09:31", "ev": "llm", "q_chars": 2, "r_chars": 110, "llm_first_token": 0.504, "acciones": [], "pregunta": "se", "respuesta": "Uy creo que no te he entendido bien podrías repetirlo por favor", "emocion": "sorpresa", "intensidad": 0.4}
+{"t": 1185.62, "ts": "16:09:32", "ev": "sistema", "cpu_pct": 51.3, "mem_pct": 91.7, "temp_c": 65.7, "load1": 3.37}
+{"t": 1190.622, "ts": "16:09:37", "ev": "sistema", "cpu_pct": 44.6, "mem_pct": 91.7, "temp_c": 64.3, "load1": 3.26}
+{"t": 1191.189, "ts": "16:09:38", "ev": "turno", "n_chars": 62, "stt_to_llm1": 0.504, "llm1_to_aplay1": 0.212, "aplay1_to_end": 2.61, "gap_prev": 5.18, "cola_speech_max": 1, "cola_tts_max": 1, "cola_audio_max": 0}
+{"t": 1195.625, "ts": "16:09:42", "ev": "sistema", "cpu_pct": 45.8, "mem_pct": 91.7, "temp_c": 64.3, "load1": 3.08}
+{"t": 1200.415, "ts": "16:09:47", "ev": "comando", "texto": "adelante", "comando": "adelante", "gap_prev": 9.23}
+{"t": 1200.628, "ts": "16:09:47", "ev": "sistema", "cpu_pct": 44.1, "mem_pct": 91.7, "temp_c": 66.2, "load1": 2.83}
+{"t": 1205.148, "ts": "16:09:52", "ev": "comando", "texto": "derecha", "comando": "derecha", "gap_prev": 13.96}
+{"t": 1205.631, "ts": "16:09:52", "ev": "sistema", "cpu_pct": 46.8, "mem_pct": 91.7, "temp_c": 65.7, "load1": 2.76}
+{"t": 1209.724, "ts": "16:09:57", "ev": "comando", "texto": "de", "comando": "pregunta:de", "gap_prev": 18.54}
+{"t": 1210.243, "ts": "16:09:57", "ev": "llm", "q_chars": 2, "r_chars": 110, "llm_first_token": 0.41, "acciones": [], "pregunta": "de", "respuesta": "Uy creo que no te he entendido bien podrías repetirlo por favor", "emocion": "sorpresa", "intensidad": 0.4}
+{"t": 1210.635, "ts": "16:09:57", "ev": "sistema", "cpu_pct": 47.4, "mem_pct": 91.7, "temp_c": 65.7, "load1": 2.78}
+{"t": 1215.638, "ts": "16:10:02", "ev": "sistema", "cpu_pct": 45.1, "mem_pct": 91.7, "temp_c": 65.7, "load1": 2.72}
+{"t": 1217.016, "ts": "16:10:04", "ev": "turno", "n_chars": 62, "stt_to_llm1": 0.41, "llm1_to_aplay1": 0.23, "aplay1_to_end": 2.795, "gap_prev": 18.53, "cola_speech_max": 1, "cola_tts_max": 1, "cola_audio_max": 0}
+{"t": 1220.639, "ts": "16:10:07", "ev": "sistema", "cpu_pct": 45.2, "mem_pct": 91.7, "temp_c": 64.8, "load1": 2.66}
+{"t": 1222.021, "ts": "16:10:09", "ev": "comando", "texto": "adelante", "comando": "adelante", "gap_prev": 5.0}
+{"t": 1225.641, "ts": "16:10:12", "ev": "sistema", "cpu_pct": 45.6, "mem_pct": 91.7, "temp_c": 64.3, "load1": 2.53}
+{"t": 1229.258, "ts": "16:10:16", "ev": "comando", "texto": "adelante", "comando": "adelante", "gap_prev": 12.24}
+{"t": 1230.642, "ts": "16:10:17", "ev": "sistema", "cpu_pct": 45.8, "mem_pct": 91.7, "temp_c": 64.8, "load1": 2.57}
+{"t": 1235.506, "ts": "16:10:22", "ev": "comando", "texto": "izquierda", "comando": "izquierda", "gap_prev": 18.49}
+{"t": 1235.644, "ts": "16:10:22", "ev": "sistema", "cpu_pct": 45.5, "mem_pct": 91.7, "temp_c": 66.2, "load1": 2.52}
+{"t": 1240.51, "ts": "16:10:27", "ev": "comando", "texto": "izquierda", "comando": "izquierda", "gap_prev": 23.49}
+{"t": 1240.646, "ts": "16:10:27", "ev": "sistema", "cpu_pct": 45.3, "mem_pct": 91.7, "temp_c": 65.2, "load1": 2.4}
+{"t": 1245.648, "ts": "16:10:32", "ev": "sistema", "cpu_pct": 46.1, "mem_pct": 91.7, "temp_c": 65.7, "load1": 2.45}
+{"t": 1245.829, "ts": "16:10:33", "ev": "comando", "texto": "ante", "comando": "pregunta:ante", "gap_prev": 28.81}
+{"t": 1246.51, "ts": "16:10:33", "ev": "llm", "q_chars": 4, "r_chars": 54, "llm_first_token": 0.584, "acciones": [], "pregunta": "ante", "respuesta": "Ante qué", "emocion": "sorpresa", "intensidad": 0.7}
+{"t": 1249.27, "ts": "16:10:36", "ev": "turno", "n_chars": 8, "stt_to_llm1": 0.584, "llm1_to_aplay1": 0.235, "aplay1_to_end": 0.002, "gap_prev": 28.81, "cola_speech_max": 1, "cola_tts_max": 1, "cola_audio_max": 0}
+{"t": 1250.65, "ts": "16:10:37", "ev": "sistema", "cpu_pct": 45.1, "mem_pct": 91.7, "temp_c": 65.7, "load1": 2.25}
+{"t": 1254.864, "ts": "16:10:42", "ev": "comando", "texto": "pequeños", "comando": "pregunta:pequenos", "gap_prev": 5.59}
+{"t": 1255.595, "ts": "16:10:42", "ev": "llm", "q_chars": 8, "r_chars": 103, "llm_first_token": 0.713, "acciones": [], "pregunta": "pequenos", "respuesta": "Pequeños qué No te entiendo muy bien podrías repetirlo", "emocion": "sorpresa", "intensidad": 0.5}
+{"t": 1255.653, "ts": "16:10:42", "ev": "sistema", "cpu_pct": 49.0, "mem_pct": 91.7, "temp_c": 65.7, "load1": 2.15}
+{"t": 1260.655, "ts": "16:10:47", "ev": "sistema", "cpu_pct": 44.5, "mem_pct": 91.7, "temp_c": 65.7, "load1": 2.06}
+{"t": 1261.79, "ts": "16:10:49", "ev": "turno", "n_chars": 53, "stt_to_llm1": 0.713, "llm1_to_aplay1": 0.187, "aplay1_to_end": 2.141, "gap_prev": 5.59, "cola_speech_max": 1, "cola_tts_max": 2, "cola_audio_max": 0}
+{"t": 1265.657, "ts": "16:10:52", "ev": "sistema", "cpu_pct": 52.9, "mem_pct": 91.7, "temp_c": 65.2, "load1": 1.97}
+{"t": 1266.049, "ts": "16:10:53", "ev": "comando", "texto": "con y de viento para que no ruido", "comando": "pregunta:con y de viento para que no ruido", "gap_prev": 4.26}
+{"t": 1266.604, "ts": "16:10:53", "ev": "llm", "q_chars": 33, "r_chars": 131, "llm_first_token": 0.433, "acciones": [], "pregunta": "con y de viento para que no ruido", "respuesta": "A ver creo que me he perdido un poco Podrías explicarme un poco mejor qué necesitas", "emocion": "sorpresa", "intensidad": 0.6}
+{"t": 1270.658, "ts": "16:10:57", "ev": "sistema", "cpu_pct": 46.9, "mem_pct": 91.7, "temp_c": 65.7, "load1": 1.97}
+{"t": 1275.368, "ts": "16:11:02", "ev": "turno", "n_chars": 82, "stt_to_llm1": 0.433, "llm1_to_aplay1": 0.257, "aplay1_to_end": 4.787, "gap_prev": 4.25, "cola_speech_max": 1, "cola_tts_max": 2, "cola_audio_max": 0}
+{"t": 1275.66, "ts": "16:11:02", "ev": "sistema", "cpu_pct": 42.7, "mem_pct": 91.8, "temp_c": 65.7, "load1": 1.82}
+{"t": 1279.436, "ts": "16:11:06", "ev": "comando", "texto": "la mejor que con los apuesta", "comando": "pregunta:la mejor que con los apuesta", "gap_prev": 4.07}
+{"t": 1280.262, "ts": "16:11:07", "ev": "llm", "q_chars": 28, "r_chars": 110, "llm_first_token": 0.642, "acciones": [], "pregunta": "la mejor que con los apuesta", "respuesta": "Uf creo que sigo sin entenderte Podrías decirlo de otra manera", "emocion": "sorpresa", "intensidad": 0.7}
+{"t": 1280.662, "ts": "16:11:07", "ev": "sistema", "cpu_pct": 48.3, "mem_pct": 91.7, "temp_c": 65.7, "load1": 1.67}
+{"t": 1285.666, "ts": "16:11:12", "ev": "sistema", "cpu_pct": 42.9, "mem_pct": 91.9, "temp_c": 66.7, "load1": 2.02}
+{"t": 1286.697, "ts": "16:11:14", "ev": "turno", "n_chars": 61, "stt_to_llm1": 0.642, "llm1_to_aplay1": 0.283, "aplay1_to_end": 2.515, "gap_prev": 4.06, "cola_speech_max": 1, "cola_tts_max": 1, "cola_audio_max": 0}
+{"t": 1290.667, "ts": "16:11:17", "ev": "sistema", "cpu_pct": 43.0, "mem_pct": 91.7, "temp_c": 65.2, "load1": 1.94}
+{"t": 1295.669, "ts": "16:11:22", "ev": "sistema", "cpu_pct": 43.5, "mem_pct": 91.7, "temp_c": 64.3, "load1": 1.86}
+{"t": 1296.512, "ts": "16:11:23", "ev": "comando", "texto": "adelante", "comando": "adelante", "gap_prev": 9.81}
+{"t": 1300.67, "ts": "16:11:27", "ev": "sistema", "cpu_pct": 44.8, "mem_pct": 91.7, "temp_c": 65.2, "load1": 1.71}
+{"t": 1302.757, "ts": "16:11:30", "ev": "comando", "texto": "adelante", "comando": "adelante", "gap_prev": 16.06}
+{"t": 1305.672, "ts": "16:11:32", "ev": "sistema", "cpu_pct": 44.4, "mem_pct": 91.7, "temp_c": 64.3, "load1": 1.65}
+{"t": 1307.347, "ts": "16:11:34", "ev": "comando", "texto": "derecha", "comando": "derecha", "gap_prev": 20.65}
+{"t": 1310.674, "ts": "16:11:37", "ev": "sistema", "cpu_pct": 44.9, "mem_pct": 91.7, "temp_c": 63.8, "load1": 1.68}
+{"t": 1312.506, "ts": "16:11:39", "ev": "comando", "texto": "adelante", "comando": "adelante", "gap_prev": 25.81}
+{"t": 1315.676, "ts": "16:11:42", "ev": "sistema", "cpu_pct": 45.2, "mem_pct": 91.7, "temp_c": 64.3, "load1": 1.63}
+{"t": 1318.141, "ts": "16:11:45", "ev": "comando", "texto": "izquierda", "comando": "izquierda", "gap_prev": 31.44}
+{"t": 1320.679, "ts": "16:11:47", "ev": "sistema", "cpu_pct": 44.2, "mem_pct": 91.7, "temp_c": 63.8, "load1": 1.58}
+{"t": 1323.33, "ts": "16:11:50", "ev": "comando", "texto": "de", "comando": "pregunta:de", "gap_prev": 36.63}
+{"t": 1323.986, "ts": "16:11:51", "ev": "llm", "q_chars": 2, "r_chars": 51, "llm_first_token": 0.468, "acciones": [], "pregunta": "de", "respuesta": "De qué", "emocion": "sorpresa", "intensidad": 0.4}
+{"t": 1325.687, "ts": "16:11:52", "ev": "sistema", "cpu_pct": 46.4, "mem_pct": 91.7, "temp_c": 63.8, "load1": 1.61}
+{"t": 1326.689, "ts": "16:11:53", "ev": "turno", "n_chars": 6, "stt_to_llm1": 0.468, "llm1_to_aplay1": 0.351, "aplay1_to_end": 0.003, "gap_prev": 36.63, "cola_speech_max": 1, "cola_tts_max": 1, "cola_audio_max": 0}
+{"t": 1330.689, "ts": "16:11:57", "ev": "sistema", "cpu_pct": 48.2, "mem_pct": 91.7, "temp_c": 66.2, "load1": 1.72}
+{"t": 1332.211, "ts": "16:11:59", "ev": "comando", "texto": "saca de madera", "comando": "pregunta:saca de madera", "gap_prev": 5.52}
+{"t": 1332.789, "ts": "16:12:00", "ev": "llm", "q_chars": 14, "r_chars": 109, "llm_first_token": 0.407, "acciones": [], "pregunta": "saca de madera", "respuesta": "Un saco de madera Eso no me suena no sé dónde podría haber uno", "emocion": "sorpresa", "intensidad": 0.4}
+{"t": 1335.691, "ts": "16:12:03", "ev": "sistema", "cpu_pct": 52.0, "mem_pct": 91.8, "temp_c": 64.8, "load1": 1.75}
+{"t": 1339.437, "ts": "16:12:06", "ev": "turno", "n_chars": 61, "stt_to_llm1": 0.407, "llm1_to_aplay1": 0.251, "aplay1_to_end": 2.736, "gap_prev": 5.51, "cola_speech_max": 1, "cola_tts_max": 1, "cola_audio_max": 0}
+{"t": 1340.693, "ts": "16:12:08", "ev": "sistema", "cpu_pct": 45.4, "mem_pct": 91.8, "temp_c": 65.7, "load1": 2.01}
+{"t": 1344.929, "ts": "16:12:12", "ev": "comando", "texto": "sólo me queda una cosa y ya está trabajando todos", "comando": "pregunta:solo me queda una cosa y ya esta trabajando todos", "gap_prev": 5.49}
+{"t": 1345.534, "ts": "16:12:12", "ev": "llm", "q_chars": 49, "r_chars": 126, "llm_first_token": 0.452, "acciones": [], "pregunta": "solo me queda una cosa y ya esta trabajando todos", "respuesta": "Pues no sé a qué te refieres pero si necesitas algo de lo que sí puedo coger dímelo", "emocion": "calma", "intensidad": 0.5}
+{"t": 1345.719, "ts": "16:12:13", "ev": "sistema", "cpu_pct": 56.2, "mem_pct": 91.8, "temp_c": 66.2, "load1": 2.41}
+{"t": 1350.726, "ts": "16:12:18", "ev": "sistema", "cpu_pct": 43.5, "mem_pct": 92.1, "temp_c": 65.2, "load1": 2.69}
+{"t": 1355.214, "ts": "16:12:22", "ev": "turno", "n_chars": 82, "stt_to_llm1": 0.452, "llm1_to_aplay1": 0.29, "aplay1_to_end": 5.737, "gap_prev": 5.48, "cola_speech_max": 1, "cola_tts_max": 1, "cola_audio_max": 0}
+{"t": 1355.728, "ts": "16:12:23", "ev": "sistema", "cpu_pct": 30.8, "mem_pct": 92.3, "temp_c": 63.3, "load1": 2.56}
+{"t": 1360.729, "ts": "16:12:28", "ev": "sistema", "cpu_pct": 28.9, "mem_pct": 92.2, "temp_c": 63.3, "load1": 2.35}
+{"t": 1365.732, "ts": "16:12:33", "ev": "sistema", "cpu_pct": 28.2, "mem_pct": 92.2, "temp_c": 62.8, "load1": 2.16}
+{"t": 1370.499, "ts": "16:12:37", "ev": "sesion_fin", "duracion_s": 1370.5, "n_turnos": 57}

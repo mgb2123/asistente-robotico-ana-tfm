@@ -1,0 +1,52 @@
+========================================================
+RESUMEN DE SESION — asistente de voz "Ana"
+========================================================
+Inicio:    2026-06-20 11:34:35
+Fin:       2026-06-20 11:48:01
+Duracion:  13m 25s (805.8s)
+Turnos:    12
+Chars TTS: 805
+
+LATENCIAS (segundos)   n     media    min     max     p95
+--------------------------------------------------------
+STT -> 1er token LLM    12     0.58    0.38    2.15    0.58
+LLM 1er token (abs)     12     0.58    0.38    2.15    0.58
+LLM -> 1er audio        12     0.24    0.18    0.29    0.29
+Audio inicio -> fin     12     3.54    0.00   12.75    8.28
+Gap entre acciones      11    15.81    2.06  138.51  138.51
+
+EVENTOS
+--------------------------------------------------------
+Barge-in (interrupciones): 2
+Caidas de WiFi:            0
+Errores:                   0
+Emergencias:               0
+
+VALIDACION NAVEGACION (Tabla 2.17: RF-02 / RNF-02 / Metrica 1)
+Exito = err_pos < 0.30 m  y  err_yaw < 15 deg  y  t < 120 s
+--------------------------------------------------------
+waypoint       intentos  exitos   tasa(%) t_med(s) t_max(s)
+  (sin navegaciones registradas)
+
+SISTEMA (CPU/RAM/TEMP)   n     media    min     max
+--------------------------------------------------------
+CPU global (%)         161     31.3    25.3    65.7
+RAM usada (%)          161     49.3    46.7    51.2
+Temp SoC (C)           161     58.9    56.5    63.8
+Load 1 min             161      1.8     1.0     5.3
+
+COMANDOS MAS USADOS
+--------------------------------------------------------
+      4  wake
+      1  pregunta:ana que tal
+      1  pregunta:yo perfecto gracias
+      1  pregunta:puedes ir a la habitacion
+      1  pregunta:las un chiste
+      1  pregunta:ah
+      1  pregunta:me encuentro
+      1  pregunta:me encuentro muy triste
+      1  pregunta:podrias contar un chiste
+      1  pregunta:un poco flojo no
+      1  pregunta:otro
+      1  pregunta:ese por ejemplo es muy muy bueno
+      1  pregunta:puesto cual es tu libro favorito

@@ -1,0 +1,49 @@
+# objetos.yaml — catálogo de objetos recuperables por Ana (flujo FETCH).
+#
+# Cada clave es el nombre del objeto que el usuario pide y que el LLM emite en
+# el token <action>pickup:<objeto></action> (en minúscula y sin tilde).
+#
+# Campos por objeto:
+#   clase_yolo    Clase COCO (en INGLÉS) que YOLOv8n debe detectar. Debe ser una
+#                 de las clases del modelo (cup, bottle, book, remote, cell phone...).
+#                 Se pasa tal cual a object_detector_node ('buscar:<clase_yolo>'),
+#                 evitando ambigüedades de traducción.
+#   waypoint      Nombre del waypoint (clave de ~/mapeos/nav2/waypoints.yaml) al que
+#                 Ana navega para buscar el objeto.
+#   frase_pedir   Lo que Ana dice al auxiliar humano al llegar y detectar el objeto,
+#                 pidiendo que lo coloque en la bandeja. Espera confirmación por voz.
+#   frase_entrega Lo que Ana dice al usuario al volver con el objeto.
+#
+# Añadir un objeto NO requiere tocar código: basta con una entrada aquí (y que su
+# waypoint exista en waypoints.yaml). Recuerda actualizar también la lista de
+# CAPACIDADES en contexto_LLM.txt para que el LLM sepa que puede recogerlo.
+
+cafe:
+  clase_yolo: cup
+  waypoint: cocina
+  frase_pedir: "¿Podrías poner el café en mi bandeja, por favor?"
+  frase_entrega: "Aquí tienes tu café."
+
+agua:
+  clase_yolo: bottle
+  waypoint: cocina
+  frase_pedir: "¿Me pones la botella de agua en la bandeja, por favor?"
+  frase_entrega: "Aquí tienes el agua."
+
+libro:
+  clase_yolo: book
+  waypoint: salon
+  frase_pedir: "¿Puedes dejar el libro en mi bandeja, por favor?"
+  frase_entrega: "Aquí tienes tu libro."
+
+mando:
+  clase_yolo: remote
+  waypoint: salon
+  frase_pedir: "¿Me dejas el mando en la bandeja, por favor?"
+  frase_entrega: "Aquí tienes el mando."
+
+movil:
+  clase_yolo: cell phone
+  waypoint: mesa
+  frase_pedir: "¿Puedes poner el móvil en mi bandeja, por favor?"
+  frase_entrega: "Aquí tienes tu móvil."

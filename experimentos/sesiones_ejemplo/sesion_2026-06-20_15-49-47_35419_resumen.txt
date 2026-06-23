@@ -1,0 +1,54 @@
+========================================================
+RESUMEN DE SESION — asistente de voz "Ana"
+========================================================
+Inicio:    2026-06-20 15:49:47
+Fin:       2026-06-20 16:12:37
+Duracion:  22m 50s (1370.5s)
+Turnos:    57
+Chars TTS: 3052
+
+LATENCIAS (segundos)   n     media    min     max     p95
+--------------------------------------------------------
+STT -> 1er token LLM    55     0.55    0.38    3.38    0.71
+LLM 1er token (abs)     57     0.55    0.38    3.38    0.71
+LLM -> 1er audio        57     4.34    0.18  191.56    0.69
+Audio inicio -> fin     57     2.47    0.00    7.50    5.75
+Gap entre acciones      56    16.28    1.64  196.21   36.63
+
+EVENTOS
+--------------------------------------------------------
+Barge-in (interrupciones): 3
+Caidas de WiFi:            0
+Errores:                   0
+Emergencias:               2
+
+VALIDACION NAVEGACION (Tabla 2.17: RF-02 / RNF-02 / Metrica 1)
+Exito = err_pos < 0.30 m  y  err_yaw < 15 deg  y  t < 120 s
+--------------------------------------------------------
+waypoint       intentos  exitos   tasa(%) t_med(s) t_max(s)
+  (sin navegaciones registradas)
+
+SISTEMA (CPU/RAM/TEMP)   n     media    min     max
+--------------------------------------------------------
+CPU global (%)         273     46.1    27.0    79.1
+RAM usada (%)          273     88.9    81.2    92.3
+Temp SoC (C)           273     63.9    59.9    68.2
+Load 1 min             273      2.8     1.1     6.7
+
+COMANDOS MAS USADOS
+--------------------------------------------------------
+     14  ver
+      8  adelante
+      4  wake
+      4  izquierda
+      3  derecha
+      2  pregunta:de
+      1  pregunta:que debes
+      1  pregunta:mhm
+      1  pregunta:hola
+      1  pregunta:menos ofensiva de lo que diria yo
+      1  pregunta:le queda muy bien esas ropa tallas
+      1  pregunta:enciende las luces que yo no se como funciona
+      1  pregunta:los
+      1  pregunta:eso si
+      1  pregunta:como

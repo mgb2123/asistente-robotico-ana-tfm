@@ -1,0 +1,54 @@
+========================================================
+RESUMEN DE SESION — asistente de voz "Ana"
+========================================================
+Inicio:    2026-06-20 14:39:15
+Fin:       2026-06-20 15:02:27
+Duracion:  23m 12s (1392.8s)
+Turnos:    19
+Chars TTS: 638
+
+LATENCIAS (segundos)   n     media    min     max     p95
+--------------------------------------------------------
+STT -> 1er token LLM    16     0.66    0.37    2.97    0.73
+LLM 1er token (abs)     20     0.62    0.37    2.97    0.73
+LLM -> 1er audio        19     8.36    0.17   64.97   46.23
+Audio inicio -> fin     19     1.16    0.00    3.06    3.04
+Gap entre acciones      18    60.40    2.12  435.22  203.79
+
+EVENTOS
+--------------------------------------------------------
+Barge-in (interrupciones): 11
+Caidas de WiFi:            0
+Errores:                   0
+Emergencias:               9
+
+VALIDACION NAVEGACION (Tabla 2.17: RF-02 / RNF-02 / Metrica 1)
+Exito = err_pos < 0.30 m  y  err_yaw < 15 deg  y  t < 120 s
+--------------------------------------------------------
+waypoint       intentos  exitos   tasa(%) t_med(s) t_max(s)
+  (sin navegaciones registradas)
+
+SISTEMA (CPU/RAM/TEMP)   n     media    min     max
+--------------------------------------------------------
+CPU global (%)         278     37.8    26.9   100.0
+RAM usada (%)          278     80.5    73.8    89.7
+Temp SoC (C)           278     60.8    54.5    74.0
+Load 1 min             278      2.0     0.8     4.1
+
+COMANDOS MAS USADOS
+--------------------------------------------------------
+     11  wake
+      2  llamar_emergencias
+      2  pregunta:que vez
+      2  ver
+      2  adelante
+      1  pregunta:la
+      1  pregunta:me encuentro muy mala
+      1  pregunta:duelen mucho el pecho que era como voy a desmayar
+      1  pregunta:es por favor
+      1  pregunta:llama de emergencias
+      1  pregunta:se
+      1  pregunta:fatal
+      1  pregunta:me es un corte y hay mucha sangre
+      1  pregunta:estoy sangrando mucho creo que me hecho una herida
+      1  pregunta:los llamar al servicio de emergencias

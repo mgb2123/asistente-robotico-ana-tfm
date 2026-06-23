@@ -1,0 +1,65 @@
+# Colcon build artifacts
+build/
+install/
+log/
+
+# Modelos grandes (descargar con install.sh)
+models/
+*.onnx
+*.pt
+*.pb
+*.tflite
+
+# Python
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+*.egg
+
+# Datos de usuario y memoria persistente
+memoria.json
+perfil_residente.json
+*.db
+*.sqlite
+
+# Audio de emergencia pre-sintetizado (derivado del perfil; específico de la máquina)
+cache_emergencia/
+
+# Logs de sesión generados en ejecución (transcripciones de voz y respuestas del LLM).
+# Se versionan solo unos pocos ejemplos en experimentos/sesiones_ejemplo/.
+logs_sesiones/
+
+
+# Secretos / entorno
+.env
+*.env
+.env.*
+
+# ROS bags y grabaciones
+*.bag
+*.bag.active
+*.db3
+*.mcap
+
+# Archivos de backup y copias de trabajo
+*copy*.py
+* copy *.py
+
+# Editor / OS
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Comparativas y experimentos locales
+src/voice_controlled_turtlebot/voice_controlled_turtlebot/comparativa/
+
+# Salidas generadas por los scripts de experimentos/ (informes, CSVs, imágenes)
+test_whisper.py

@@ -1,0 +1,25 @@
+caso,intento,etapa,resultado,t_inicio_s,t_fin_s,t_total_s,notas
+Busqueda colaborativa,1,orden vocal,,,,,objeto pedido:
+Busqueda colaborativa,1,navegacion al waypoint,,,,,
+Busqueda colaborativa,1,deteccion YOLO,,,,,clase detectada:
+Busqueda colaborativa,1,confirmacion auxiliar,,,,,
+Busqueda colaborativa,1,retorno a base,,,,,
+Busqueda colaborativa,2,orden vocal,,,,,objeto pedido:
+Busqueda colaborativa,2,navegacion al waypoint,,,,,
+Busqueda colaborativa,2,deteccion YOLO,,,,,clase detectada:
+Busqueda colaborativa,2,confirmacion auxiliar,,,,,
+Busqueda colaborativa,2,retorno a base,,,,,
+Busqueda colaborativa,3,orden vocal,,,,,objeto pedido:
+Busqueda colaborativa,3,navegacion al waypoint,,,,,
+Busqueda colaborativa,3,deteccion YOLO,,,,,clase detectada:
+Busqueda colaborativa,3,confirmacion auxiliar,,,,,
+Busqueda colaborativa,3,retorno a base,,,,,
+Protocolo emergencia,1,LLM emite emergency,,,,,tipo:
+Protocolo emergencia,1,navegacion waypoint emergencia,,,,,
+Protocolo emergencia,1,llamada Twilio,,,,,
+Protocolo emergencia,1,audio bidireccional,,,,,inteligibilidad/latencia:
+Protocolo emergencia,2,LLM emite emergency,,,,,tipo:
+Protocolo emergencia,2,navegacion waypoint emergencia,,,,,
+Protocolo emergencia,2,llamada Twilio,,,,,
+Protocolo emergencia,2,audio bidireccional,,,,,inteligibilidad/latencia:
+Protocolo emergencia,3,modo proxy LLM (silencio >6s),,,,,opcional:
