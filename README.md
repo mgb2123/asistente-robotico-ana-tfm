@@ -98,7 +98,7 @@ En el PC (navegación y TTS remoto):
 ├── objetos.yaml                      Objetos reconocibles por la visión
 ├── install.sh                        Script de instalación
 ├── lanzar.sh / lanzar_nav_pc.sh      Scripts de arranque (RPi / PC)
-├── experimentos/                     Scripts de validación del TFM y sesiones de ejemplo
+├── sesiones_de_ejemplo/              Sesiones de ejemplo del asistente (formato JSONL + resumen)
 ├── herramientas/                     Utilidades (p. ej. diagnóstico de Twilio)
 ├── PARAMETROS.md                     Parámetros configurables del nodo principal
 └── tts_remoto_pc.md                  Guía del servidor TTS remoto
@@ -108,4 +108,4 @@ En el PC (navegación y TTS remoto):
 
 - [`PARAMETROS.md`](PARAMETROS.md): parámetros de configuración del asistente.
 - [`tts_remoto_pc.md`](tts_remoto_pc.md): montaje del servidor TTS remoto en el PC.
-- [`experimentos/README.md`](experimentos/README.md): protocolo y scripts de evaluación.
+- [`sesiones_de_ejemplo/README.md`](sesiones_de_ejemplo/README.md): formato y contenido de las sesiones de ejemplo.
